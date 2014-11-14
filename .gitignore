@@ -59,3 +59,6 @@ target/
 pyvenv.cfg
 bin
 praw.ini
+handled.json
+markov
+.credentials

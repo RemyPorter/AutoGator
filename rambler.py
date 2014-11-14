@@ -10,6 +10,7 @@ mc = MarkovChain(markovFile)
 if needs_build:
     with open(dataFile) as f:
         mc.generateDatabase(f.read())
+        mc.dumpdb()
 
 def get_string():
     s = mc.generateString()
