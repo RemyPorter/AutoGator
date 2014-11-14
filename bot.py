@@ -5,7 +5,7 @@ import os.path
 import time
 
 autogator_on = ["autogator", "big gator", "test gator", "teeth", "ethics",
-    "goober", "sjw", "intel"]
+    "goober", "sjw", "intel", "unfair", "harrass"]
 
 def get_handled(cache="handled.json"):
     if not os.path.exists(cache): return []
@@ -20,6 +20,10 @@ def save_handled(handled, cache="handled.json"):
 def get_credentials(cache=".credentials"):
     with open(cache, "r") as f:
         return json.loads(f.read())
+
+time.sleep(60*5) #don't immediately start posting
+# that way I can restart after munging
+# the dataset without hammering the site.
 
 redd = praw.Reddit("AutoGator, a GamerGate MarkovChain replier.", site="autogator")
 creds = get_credentials()

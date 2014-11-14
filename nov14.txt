@@ -2330,3 +2330,123 @@ Edit: I should add that when I say it's done wonders, I mean some of those frien
 I've got nothing to add to the conversation, but just want to put my hand up as a fan of agricola and puerto rico :)
 Yep, board and table top RPGs.  I dislike Wheaton immensely.  He has always been a condescending asshole, or, to use his verbiage, a dick.  In the TTRPG community, we recently had a SJW onslaught over who WotC reached out to for consulting on 5th edition.  Holy shit.  The current trend of indie games is part of this Social Justice trend.  I guess what I am saying is that the battles are already being fought, the problem for them is that you simply cannot control TTRPGs like you can the CRPG industry.
 I don't get a chance to play a lot, but I have a problem with buying too many board games. I also won't be watching Tabletop, not really as a boycott I just don't think I can enjoy it seeing Wheaton every episode. Barring any differences on opinion, he's just got an unlikable personality to me.
+
+In the previous Medium, we looked at McIntosh and Sarkeesian’s statements and established that the Tropes vs Women series is intended to be educational and used in academic settings as informative pieces of work. The pair have built academic curricula around their work as assert that it is used in multiple universities.
+
+We also looked at some definitions of academic and intellectual dishonesty. We looked at the history of feminism, a brief history of Feminist Frequency in relation to the Tropes series, and established academic thoughts and arguments concerning the nature of tropes, narrative, and storytelling.
+
+In this Medium, we will look at the very first video in the Tropes series, Damsels in Distress pt. 1. We will see how McIntosh and Sarkeesian present concepts without citation, incorrectly assert concepts, mislabel concepts, and completely misunderstand concepts. We will also look at ways that McIntosh and Sarkeesian may have massaged their data to get the desired outcome, define bias in research, and utilize some logic to examine some of the claims.
+
+This is not to be construed as a personal attack on McIntosh or Sarkeesian. This is intended to be a criticism of critics and call for better work from two people who have the propensity to do better. This is also not exhaustive or wholly representative of the criticism of this video as a whole. It’s silly that I have to put this, but this Medium is not meant to be exhaustive and complete of all potentialities, views, and research bodies.
+
+Please note that I will attempt to respond to notes, but the last piece received 10,000 views in 24 hours. It’s hard to answer everyone, but I will try as soon as possible. All notes are invisible.
+
+Finally, yes, I have received some insults, dismissals, and saucy language due to my first piece.
+
+Of primary note in the very first part is that McIntosh and Sarkeesian do not cite any sources for any of the material presented in the video. Under common knowledge exceptions to citation, one should assume that their reader does not have knowledge of something. The color of the sky may be common knowledge (it appears blue in the day) the reason the sky appears blue (scattering of blue light in daytime) is not. The first would not need sourcing. The second would.
+
+The following statements lack sourcing that is necessary: history of damsel in distress, definitions of etymological terms, Damsels in the Middle Age, Damsels in the Classical Age, Damsels in the 20th century, information on subject/object dichotomy, the assertion of women being a goal, misconceptions of the trope, the assertion that damsels are an object at all, how the trope causes injury, the hero myth, video games as influential to the cultural and social ecosystem, sexist attitudes are rampant assertion, a large percentage of people still think women need to be sheltered/protected/naturally weak, the belief that women are naturally weaker and viewed negatively, that damsel tropes are a result of popular culture, that tropes normalize attitudes, that damsel in distress is a widely used trope.
+
+In the description of this first video, McIntosh and Sarkeesian write they will look at female game characters from a “systemic, big picture perspective.” While systems are large and problems are persistent throughout the system, systems are also cybernetic in nature. This means the systems are quite complex, reflexive, growing, evolving, changing, and mutual.
+
+One drawback of this perspective, however, is that it’s often difficult to find an origin point of problem due to feedback. For example, consider a computer. Let’s say a small part short-circuits. This causes a surge of electricity that damages your memory and hard drive. This causes a smoking that then damages cables which causes your power supply to fail and damage which then causes another small part to fail and break causing your computer to fail. You now have to examine each part and its relationship to other parts, how the parts failed, in what order, and discern the nature of that failure to track down the problem.
+
+However, if you eliminate or remove a part of the system, the system fails as a whole. The computer no longer functions because it lacks that small part.
+
+So while systemic views are valuable, we must also keep in mind that removal of a systemic flaw requires a replacement of a systemic patch or fix. Removal of the perceived problem of sexism cannot be replaced simply by lack of sexism. It must be replaced by a behavior. You cannot remove a behavior without a substitute behavior or else a system collapses.
+
+Injury, Harm, and Destruction
+McIntosh and Sarkessian state that, “remember that it is both possible (and even necessary) to simultaneously enjoy media while also being critical of it’s more problematic or pernicious aspects.”
+
+Let us now return to one of our terms of engagement:
+
+Pernicious means something that has a physically harmful effect in a gradual or insidious way, is highly injurious, deadly or fatal, or causing great harm and destruction.
+
+There is no evidence that I can discern of causality between sexist games and people being highly injured, killed, or being caused great harm and destruction. The most lobbied claim, that video games cause body dysmorphia or image problems, is not entirely proven. In fact, the research on the effects of Barbie on young girls is mixed and often ridiculous. There’s no research that states, without hesitation, that media or representations cause body dysmorphia or long-term body dissatisfaction. Parents, however, are known to be one of the strongest influences in dissatisfaction and esteem.
+
+Body dysmorphia disorder, a psychiatric diagnosis, also is known to affect men and women for many reasons, one of the highest associated risk factors being a biological predisposition and personality characteristics. There are other forms of dysmorphia that are not recognized likely due to the population they effect most. Notice how media is not one of those highest associated factors? While personality can be derived from media, it can also be derived from family and social interactions that take up an amount of the day.
+
+It may be that the pair do not fully understand the word “pernicious” and believe it is just a synonym for “problematic,” but this does not seem the case. Better words include dubious, questionable, uncertain, or disputable. None of which mean causing of harm. There’s no indication that media representations that are not appreciated are pernicious or cause serious injury or bodily harm. There’s no indication that tropes, no matter how selective, cause serious injury or bodily harm.
+
+Final evidence that these representations are not the problem: treatment. Treatment of body dysmorphia tends to involve cognitive behavioral therapy which examines associated thoughts with behaviors and attempts to sever the thoughts. In my experience, most people who see me with dysmorphia do not state they have the disorder because of a TV show. They typically tell me their parents were critical or they were naturally high strung.
+
+Those who assert that the media is the culprit here are simply ignorant of research in the very field that diagnoses the disorder.
+
+We also need to take this moment to briefly touch on the use of gendered stereotypes. Gamers, as covered in the linked medium with its own resources and in the previous piece, are often subjected to stereotypes of being violent, angry, or filled with rage. There is no research to indicate that gamers are, on a whole, more violent than any other group. Research does indicate that playing certain games may change attitudes immediately after playing the game, but there’s no research this is long-term and the research that finds a result is under heavy scrutiny.
+
+There is correlational research and a multitude of theoretical explanations for the effects of media:
+
+cultivation theory — media cultivates, shapes, or helps to spring forth beliefs and perspectives.
+social learning theory — media teaches us behaviors are acceptable and prime us for behaviors via modeling and repetition.
+social-developmental models — we develop patterns of behaviors through relationships with media.
+desensitization — media makes violence more acceptable and less shocking as we view it more frequently.
+Models of persuasion — attractiveness, appeal, and repetition join to change attitudes and behaviors.
+Impersonal impact and third-person effect — We act on the assumption we will not be affected by media.
+None of which have solid causal research to conclude that media causes a behavioral outcome as covered above. The most that research can conclude is that media has a short-term effect on behavior. Factorial analysis shows that effect, as covered previously, is small in relation to exposure to all violent media—8%.
+
+Bias in Research
+In research, we often are concerned with the nature of the researcher. Postmodernist concerns of science put forth that scientific objectivity is difficult if not possible as data do not self-interpret. They are filtered through the researcher’s lens, often are biased by the researcher’s own perceptions, and reaches truths that serve the assumptions of the researcher.
+
+Psychology and cognitive science shares this concern through what is called confirmation bias. This bias dictates that a researcher confirms one’s hypothesis by actively seeking out data that will support one’s conclusions. As researchers are invested in their research, they are influenced by personal bias. Quite interestingly, one way to address bias-making is through playing video games regularly.
+
+On the research-side, there is often a concern with a bias that is known as publication bias. This can have a few different prongs. One prong concerning analyzing a large amount of research that has already been done. When doing research on information that is readily available, the outcome may differ from the complete range of research that is available (a drug is found dangerous when it is not) and publication has consequences due to finding a negative impact. Another prong, now older, is that publications like to put forth research that finds a result even if that result is not entire in scope.
+
+So when doing research, a researcher must be mindful of their bias in their theoretical approach, the data they select, how they interpret the data, and if they are willfully misrepresenting research to impact or selecting points of publication that will be published readily.
+
+McIntosh and Sarkeesian readily ignore all of these concerns. They only select data points from media they feel fit the point (Star Fox, Race for Life, The Gorilla Mystery, Popeye, King Kong, Donkey Kong, Sheriff, the Mario series, the Zelda series, Vigilante, Sonic, Dragon’s Lair, and the Double Dragon series). The pair tailor the clips to their point and divorce the context based upon confirmation and publication bias.
+
+While one must certainly tailor their research to some degree (you cannot look at every game in existence), representing only video games or media that establish the point is poor research. Video games which do not represent the Damsel trope are not represented. Some of those include the Addams Family, Arkista’s Ring, Battletoads, Bionic Commando, Captain Planet, Donkey Kong 3, Donkey Kong, Jr., Defenders of Dynatron City, Dragon Warrior 2 and 4, Faria, Fire n’ Ice, Friday the 13th, Gauntlet, Ghost Lion, Legacy of Wizard, Legendary Wings, Little Mermaid, Maniac Mansion, Metroid, Ms. Pacman, Ninja Gaiden, Paperboy 2, Rescue Rangers, X-Men, and any game that has a woman saving a man or another woman, or any game that has a woman or man doing anything BUT saving a woman or man.
+
+Preliminary research that I am conducting, and has gone through the history of console gaming until the Sega Master System, shows that of 1,800 examined games, only 5% or roughly 96 have the Damsel in Distress trope.
+
+McIntosh and Sarkeesian were able to find 24 games to justify the statement that the Damsel trope is pernicious and problematic as a sign of sexism in gaming.
+
+McIntosh also state there are “literally hundreds of examples.” The Nintendo Entertainment System had 822 games released between 1985 and 1995. The Super Nintendo Entertainment system, active between 1991 and 1999, had 784 games available.
+
+On two systems alone, there were over 1,600 games released. McIntosh and Sarkeesian do not source their claim for “hundreds.” In fact, McIntosh and Sarkeesian state that they purchased “well over 300 games” in one update, but they have “hundreds” of examples meaning that 200–300 of their games had these cliches. Even if one assumes that every game, of which only modern generation games were pictured, had this problem, this is only 12% to 18% of games released between 1985 and 1999.
+
+My examination using any female characters every captured for any reason only returned 5% of games. If we are kind, 18% of the games have the trope. If we use the criteria put forth by McIntosh and Sarkeesian, up to the NES, only 5% do.
+
+Are McIntosh and Sarkeesian really saying that there’s a problem in gaming with objectification of women based on 5–18% of games?
+
+It should also be noted that McIntosh and Sarkeesian stated that, “it would be nearly impossible to mention them all.” No, it would not as the number of games released throughout the 80s and 90s is finite. You’d just have to look through all of the plots and see if there were common elements. In short, you’d have to do a lot of research. Research I am doing and has taken a long time.
+
+Also note that on this page are Donkey Kong, Zelda, Mario, Star Fox Adventures, King’s Quest, Double Dragon, Sonic the Hedgehog, and others. It would almost appear that McIntosh and Sarkeesian got a lot of examples from the TV Tropes page. We’ll never know, however, as they did not provide sources for their materials and information.
+
+I was able to find 25 just on the Nintendo Entertainment System alone that broke convention by having men rescuing men, women rescuing men, women rescuing women, men and women fighting together, women helping men, and women being selectable as main characters.
+
+This must mean that there are many narrative elements that were used in NES story telling that reinforced a multitude of social norms and cultural values. Those that McIntosh and Sarkeesian label “damsel in distress” are labeled The Quest by Booker and “recovery of a loved one” by Polti (see previous piece)
+
+Subject-Object Dichotomy
+
+One of the key arguments presented by McIntosh and Sarkeesian is something called the subject-object dichotomy. However, the pair never quite conceptualize this issue. Instead, they leave the reader to assume that it is bad.
+
+The nature of objects and subjects has roots in two schools of philosophy. Ontology deals with the questions concerning what can exist and what does exist, how existence can be grouped, and how it can be divided. It can also be thought of as the conceptualization of existence, objects, and their ties to reality. Plato, Aristotle, Descartes, Kant, Locke, and Sartre are all major figures in ontology.
+
+So what are some arguments of ontology? You may have heard of some and not known it. The argument for the existence of God based upon irreducable parts. It is also called Intelligent Design. Satre argued that the nature of being is perceived through a subject who observes objects in the world that the subject wants to inhabit as a desire to experience novel being. Descartes argued that cognitive thought processes differentiated the existence of man from other things in the universe — cogito ergo sum.
+
+The other school of being is epistemology or the school of knowing. How does one know they exist? Whereas ontology argues for or against existence, epistemology argues for or against the nature of knowledge. Subject-object can fit here due to the knowledge of subjects and objects, experience, and knowledge of experience.
+
+So as you can tell, the subject-object dichotomy straddles two concepts: existence and knowledge. So what exactly is the subject-object dichotomy? Buckle up, we’re going full philosophy.
+
+Source for this can be found in the Satre piece linked above.
+
+People are subjects. They observe the world. They experience the world. They exist and as a result of existence in the world, they perceive the world. Our perception of the world is thus our existence in the world and our knowledge of the world. If something is perceived by us, it exists in some part due to our perception of it.
+
+Everything that is NOT you is an object. Let’s start small. Your keyboard is an object because it is independent of you. It exists in space regardless of you. Your house is an object because it’s not part of you. It is outside of you. Now, stepping back to the actual argument philosophy makes…people are objects. Your mother is an object. Your father is an object. Any entity, consciousness, item, or thing outside of your existence is an object.
+
+So if you walk outside and someone’s walking across the street, you are the subject for you and they are the object. However, they are the subject for THEM and you are the object for them. Perception of the world is thus divided upon two things: subjects and objects.
+
+So take for example the car outside. Does it exist? How do you know? Are you sure? You have to check it to make sure it’s there. You are the subject of your world. Without your perception of the world in any manner, the world may not exist for you. You must perceive it for it to exist.
+
+This is the essence of the subject-object dichotomy. How can one understand the external world in abject reality if reality is filtered through the subject? How can subjects know that objects exist outside of the experience of the subject? What is the nature of the brain as a physiological organ and the mind that keeps track of reality? How can one separate the subjective state of existence from the objective nature of reality?
+
+The argument is the very basis of postmodernism and cognitive bias. In no way can such a complex argument be reduced to “subjects act, objects are acted upon” due to the relative nature of subjects and objects. This relative nature of subjects and objects are never accounted.
+
+The subject-object dichotomy orienting to gender with one gender as uniformly substrate, not shockingly, come from a field of philosophy that is incredibly new called feminist philosophy. Feminist philosophy is both young and criticize in the world of philosophy as it is inherently sexist in stating women have unique views of knowledge because they are women.
+
+In the argument, McIntosh and Sarkeesian present that the protagonist is the subject, the person the game is centered upon. The damsel trope, the pair argue, makes men the subject because men must be the protagonist (men rescuing women). However, this does not account for women being the protagonist, multiple protagonists, or choice of protagonist. The assumption is that men are the default character and women will always be saved.
+
+Unfortunately for the pair, video games use many narrative and plot devices. They have many protagonists, and protagonists are not always the character that is controlled by the player. So McIntosh and Sarkeesian misrepresent the subject-object dilemma, call it a dichotomy (meaning two opposed concepts), and slide in gender.
+
+In my original research, which will be published at a later date, 1,460 games up to the Nintendo era do not have a gendered main character. This includes sports game and games that used figures without gender. This is 70% of identified games. This means that of the games period examined by the pair, most games were not gendered in protagonist. They were actually quite androgynous. I fully expect this number to change once I get into more modern games. The current correlation seems to put more gendering as the technology became more advanced to represent more complex shapes and show gender.
