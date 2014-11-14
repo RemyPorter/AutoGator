@@ -1,4 +1,4 @@
-A simple Reddit bot that uses a data file scraped from /r/KotakuInAction to generate a Markov chain. That chain is used to generate word-salad posts in response to very specific keywords used in /r/GamerGhazi.
+A simple Reddit bot that uses a data file scraped from /r/KotakuInAction to generate a Markov chain. That chain is used to generate word-salad posts in response to very specific keywords, in reply to /r/KiA.
 
 Run using:
 

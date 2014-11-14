@@ -5,7 +5,7 @@ import os.path
 import time
 
 autogator_on = ["autogator", "big gator", "test gator", "teeth", "ethics",
-    "goober", "sjw"]
+    "goober", "sjw", "intel"]
 
 def get_handled(cache="handled.json"):
     if not os.path.exists(cache): return []
@@ -24,7 +24,7 @@ def get_credentials(cache=".credentials"):
 redd = praw.Reddit("AutoGator, a GamerGate MarkovChain replier.", site="autogator")
 creds = get_credentials()
 redd.login(creds["user"], creds["password"])
-gg = redd.get_subreddit("gamerghazi")
+gg = redd.get_subreddit("kotakuinaction")
 
 handled = get_handled()
 while(True):
