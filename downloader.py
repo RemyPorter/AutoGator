@@ -1,3 +1,8 @@
+"""
+Download the top 100 posts and top comments from /r/kotakuinaction
+
+Run using: python3 downloader.py 
+"""
 import sys
 import re
 import time

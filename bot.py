@@ -5,7 +5,8 @@ import os.path
 import time
 
 autogator_on = ["autogator", "big gator", "test gator", "teeth", "ethics",
-    "goober", "sjw", "intel", "unfair", "harrass"]
+    "goober", "sjw", "intel", "unfair", "harrass", "sexist", "fez",
+    "sarkeesian"]
 
 def get_handled(cache="handled.json"):
     if not os.path.exists(cache): return []
