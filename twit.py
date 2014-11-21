@@ -32,8 +32,8 @@ def main():
             creds["consumersecret"]
         ))
     while(True):
-        post_next(twit)
         time.sleep(twit_freq*60)
+        post_next(twit)
 
 if __name__ == "__main__":
     main()
