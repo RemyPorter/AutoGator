@@ -15,12 +15,13 @@ def next_tweet():
         return (True, res[:140-len(hashtag)] + hashtag)
     return (False, res + hashtag)
 
-def post_next(twitter):
+def post_next(twitter, depth=0):
+    if depth > 3: return
     nxt = next_tweet()
     twitter.statuses.update(status=nxt[1])
     if nxt[0]:
         time.sleep(10)
-        post_next(twitter)
+        post_next(twitter, depth+1)
 
 def main():
     creds = get_credentials()
