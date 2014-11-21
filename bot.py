@@ -22,26 +22,30 @@ def get_credentials(cache=".credentials"):
     with open(cache, "r") as f:
         return json.loads(f.read())
 
-time.sleep(60*5) #don't immediately start posting
-# that way I can restart after munging
-# the dataset without hammering the site.
+def main():
+    time.sleep(60*5) #don't immediately start posting
+    # that way I can restart after munging
+    # the dataset without hammering the site.
 
-redd = praw.Reddit("AutoGator, a GamerGate MarkovChain replier.", site="autogator")
-creds = get_credentials()
-redd.login(creds["user"], creds["password"])
-gg = redd.get_subreddit("kotakuinaction")
+    redd = praw.Reddit("AutoGator, a GamerGate MarkovChain replier.", site="autogator")
+    creds = get_credentials()
+    redd.login(creds["user"], creds["password"])
+    gg = redd.get_subreddit("kotakuinaction")
 
-handled = get_handled()
-while(True):
-    try:
-        for subm in gg.get_hot(limit=10):
-            title = subm.title.lower()
-            gatory = any(s in title for s in autogator_on)
-            if not subm.id in handled and gatory:
-                msg = rambler.ramble()
-                subm.add_comment(msg)
-                handled += [subm.id]
-    except: pass
-    finally:
-        save_handled(handled)
-    time.sleep(60*10)
+    handled = get_handled()
+    while(True):
+        try:
+            for subm in gg.get_hot(limit=10):
+                title = subm.title.lower()
+                gatory = any(s in title for s in autogator_on)
+                if not subm.id in handled and gatory:
+                    msg = rambler.ramble()
+                    subm.add_comment(msg)
+                    handled += [subm.id]
+        except: pass
+        finally:
+            save_handled(handled)
+        time.sleep(60*10)
+
+if __name__ == "__main__":
+    main()
