@@ -5,7 +5,7 @@ import time
 
 hashtag = " #GamerGate"
 
-twit_freq = 35
+twit_freq = 62
 
 def next_tweet():
     res = ""
