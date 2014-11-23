@@ -4,8 +4,8 @@ import os.path
 markovFile = "markov"
 dataFile = "nov14.txt"
 
-needs_build = not os.path.exists(markovFile)
-mc = MarkovChain(markovFile)
+needs_build = True
+mc = MarkovChain()
 
 if needs_build:
     with open(dataFile) as f:
