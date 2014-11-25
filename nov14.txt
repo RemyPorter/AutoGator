@@ -17,13 +17,13 @@ Polygon Co-Founder Chris Plante condemns comet landing scientist Matt Taylor for
 
 How immature do some people think women are that they would be driven away from science because of a t-shirt?
 The best part of this is following up on the details.  The shirt was made for him by a female friend as a birthday gift - 
-&gt;Elly Prizeman   
-&gt;Elly Prize**man**  
-&gt;Elly Prize**MAN**
+Elly Prizeman   
+Elly Prizeman  
+Elly PrizeMAN
 
 Internal misogynys. Her opinion is invalid! ^^^^/s
-She literally thinks of herself as a *prize for men.* internalized mysogynistic shitlord
-That's shit*lady*, misogynerd.
+She literally thinks of herself as a prize for men. internalized mysogynistic shitlord
+That's shitlady, misogynerd.
 That really does make this so much better. 
 Isn't it strange that anytime they take on "sexual objectification" it often turns out to be a creation made by another woman? Like say, Bayonetta? Makes you wonder who the actual misogynists are.
 Very few people here are wondering that.  They've answered that question more times than I can stomach.  
@@ -86,23 +86,23 @@ Agreed!
 Agreed, nothing works if you never try.
 
 Maybe we can finally get our gaming media watchdog out of this.
-**This is one of the most important things we can do.**
+This is one of the most important things we can do.
 
-We need to prove that we want to **create,** not just destroy.
+We need to prove that we want to create, not just destroy.
 
-We need to prove that we are willing to directly and philosophically **support ethical alternatives.**
+We need to prove that we are willing to directly and philosophically support ethical alternatives.
 
-RT the crap out of this. Link it everywhere. We want to be serious about a better review environment / review system? **Let's show it here.**
-The Great Trinity of Hinduism is composed of three Gods. Brahma the **Creator**, Vishnu the **Preserver** and Shiva the **Destroyer** (transformer). Everything has its purpose, so let's support Brahma now.
-
-
+RT the crap out of this. Link it everywhere. We want to be serious about a better review environment / review system? Let's show it here.
+The Great Trinity of Hinduism is composed of three Gods. Brahma the Creator, Vishnu the Preserver and Shiva the Destroyer (transformer). Everything has its purpose, so let's support Brahma now.
 
 
-Key is to be all three *at the same time*. I guess we are Gods now :3
+
+
+Key is to be all three at the same time. I guess we are Gods now :3
 We cannot die, so I think it's fitting. We respawn which is akin to reincarnation. I like it, time to ascend to godhood. 
 I agree, but I think that what we need to be doing is creating or encouraging alternatives to the corrupt cabal. They have a ridiculously huge monopoly over everything right now.
 
-Delusionals like qoz want to believe that they have freedom of choice, but they don't realize that nearly every choice is owned by the same few collaborators. **It's not a choice when the only options all share the exact same agenda. That's why we need more options, even if we have to create them ourselves.**
+Delusionals like qoz want to believe that they have freedom of choice, but they don't realize that nearly every choice is owned by the same few collaborators. It's not a choice when the only options all share the exact same agenda. That's why we need more options, even if we have to create them ourselves.
 And after we create, you can find all the links to your favorite whitelisted websites on the neogaming subreddit. Just follow the neogaming link on the sidebar.
 It's about damn time we saw some alternatives coming out of Gamergate. This is a good first step.
 Why not GameRankings.com? It already exists.
@@ -123,21 +123,21 @@ Unified branding is important.
 
 If you are going to produce content (whether for GG or something else), make sure you secure:
 
-* The relevant domains (.com at least, perhaps more)
-* Facebook
-* Twitter
-* Tumblr
-* Vine
-* Instagram
-* YouTube
-* Google+
-* Twitch
-* Hitbox
-* Subreddit &amp; Reddit Account
-* Ask.fm
+ The relevant domains (.com at least, perhaps more)
+ Facebook
+ Twitter
+ Tumblr
+ Vine
+ Instagram
+ YouTube
+ Google+
+ Twitch
+ Hitbox
+ Subreddit &amp; Reddit Account
+ Ask.fm
 
 And anything else remotely relevant before you start producing. A combination of all of these services can help your social media reach (which, believe it or not, matters in the online media world especially to advertisers) and get the stuff you are making out to more people.
-&gt; Hitbox
+ Hitbox
 
 may also want a twitch account as well.
 I can not believe I missed that. Added it in.
@@ -149,7 +149,7 @@ Trust, but verify.
 It rests completely on her name and reputation. On nothing else.
 
 Get hype all you want. But based on the information presented which part does warrant funding a 50k campaign?
-&gt; But based on the information presented which part does warrant funding a 50k campaign?
+ But based on the information presented which part does warrant funding a 50k campaign?
 
 It's definitely a work in progress.  I get the feeling that there was a rush to put this together, and for now, that's fine.  There are 45 days for funding it, and after seeing Jennie's past performance, I have high hopes for this, but I'm going to hold off on throwing down a few bucks on this until they've hammered out a few more details.
 
@@ -161,7 +161,7 @@ Without naming names, an example I have seen professionally is $50/hour, minimum
 
 It is very much a skilled trade and if you want it done right it is going to cost. I can guarantee you that $50K will not pay for a single decent developer for an entire year. It would, however, be enough money (in my opinion) to get a site like this off of the ground properly.
 Admittedly I'm just getting (trying to get) into the web development world but at what you are saying that is 10,000 man hours to get this of the ground. I feel like if that is the case this is not a fully fledged project and is basically still in the hopes and dreams stage. I feel like just with my knowledge from not quite a minor I could write a simple version of this in under one hundred hours. I am fairly certain that it doesn't scale in a linear fashion but still that seems like a lot of work for this. 
-&gt;Admittedly I'm just getting (trying to get) into the web development world but at what you are saying that is 10,000 man hours to get this of the ground.
+Admittedly I'm just getting (trying to get) into the web development world but at what you are saying that is 10,000 man hours to get this of the ground.
 
 I am sorry, but your math is off by a zero.
 
@@ -169,11 +169,11 @@ $50,000 / 50 = 1,000
 
 &amp;nbsp;
 
-&gt;I feel like just with my knowledge from not quite a minor I could write a simple version of this in under one hundred hours.
+I feel like just with my knowledge from not quite a minor I could write a simple version of this in under one hundred hours.
 
 I have no doubt that you (and many, many other people could). But you are looking at this as if making the website itself irrespective of other costs is the only factor. It is certainly not.
 
-First, you have the actual development of the website. The creation of the thing itself. Designing something functional is not that difficult for someone who is skilled with web development. Designing something functional *and* secure is more difficult.
+First, you have the actual development of the website. The creation of the thing itself. Designing something functional is not that difficult for someone who is skilled with web development. Designing something functional and secure is more difficult.
 
 Security alone is important. Have you considered that if were there any easy exploits in the website as it stands now it would probably give you a very large list of e-mails that are probably heavily full of GamerGate supporters? What do you suppose could be done with that information?
 
@@ -203,7 +203,7 @@ William Usher (One Angry Gamer) confirms that the "Intel ads" on Gamasutra come 
 "The #Waronnerds: How Far Left Feminists and the Media Created #Gamergate" -- Could not have written this without comments from y'all and Gamerghazi
 
 My letter to the BBC
-I am writing to you to express my concern at the quality of coverage provided by the BBC with regards to #GamerGate. I myself am a journalism graduate from **XXXXXXXX** in **XXXXXXX** where I studied media ethics under **XXXXXXXXX**, a highly respected figure when it comes to advocating the value of public service broadcasting. It is thanks to his tutelage that I am as passionate as I am about media ethics. I also spent a year abroad studying at **XXXXXXX** in **XXXXXX** where I further studied media ethics with senior editors from the CBC. So please understand this is an area that I am more than passingly familiar with.
+I am writing to you to express my concern at the quality of coverage provided by the BBC with regards to #GamerGate. I myself am a journalism graduate from XXXXXXXX in XXXXXXX where I studied media ethics under XXXXXXXXX, a highly respected figure when it comes to advocating the value of public service broadcasting. It is thanks to his tutelage that I am as passionate as I am about media ethics. I also spent a year abroad studying at XXXXXXX in XXXXXX where I further studied media ethics with senior editors from the CBC. So please understand this is an area that I am more than passingly familiar with.
 
 My interest in media ethics led me to look into the #GamerGate tag and the conduct of various media outlets has been less than inspiring. There have been numerous cases documented of journalists in the gaming press covering people they are close to without disclosing their relationships. Something that I'm certain you would not allow at the BBC. While most press coverage has focused on Zoe Quinn (who I note you are happy to refer to under a pseudonym while apparently finding it difficult to do so with Sargon of Akkad) and tangentially Nathan Grayson, this has been only one small example. There has been a steady pattern of violations of the separation between author and subject across a number of publications (though the Gawker network has been amongst the worst offenders) with various journalists such as Ben Kuchera, Patricia Hernandez and others.
 
@@ -223,7 +223,7 @@ I believe in the BBC and the importance of an independent public service broadca
 
 I suggest that if you want to properly examine the issues that you use this press package compiled by supporters of #GamerGate as a starting point to look at the wider issues beyond a simplistic narrative, as ever be critical and sceptical as befits a journalist, just remember to do so with all sources.
  
-**XXXXXX**
+XXXXXX
 Good effort. Should we consider making those kind of complaints more officially open letters? Maybe there's a way of increasing pressure to take this seriously. Also I can't help viewing the GG coverage as a symptom for more general problems with media. Thus it is an issue of public interest. 
 That wouldn't be a bad idea.
 Good work I've sent one myself and I urge all other brits to do the same.
@@ -261,9 +261,9 @@ But in a broader sense, I think that if you are reviewing a game and you score i
 EDIT: Wanted to correct myself on the comment about Pakman putting a liberal spin on everything.. one look at his YouTube channel and he makes it clear that he gives a "progressive" viewpoint on everything.. therefore he is openly disclosing it and being honest about it, so I didn't mean to suggest his work is unethical. 
 I'm not talking about the harassment issue, that clearly is mostly bullshit, I'm talking about the fact that that narrative sticks because we are not really willing to discuss the fact that yes, maybe there are valid gender issues. If we were a little more proactive in that respect, maybe that whole my soggy knees spiel would be a little less effective.
 
-[edit] Yes, maybe gender issues are not important to us, but it is purportedly important to the people trying to smear us. What I find naive is the attitude that sticking our heads in the sand about this will make it go away. That's been working really well for us so far. /s
+edit Yes, maybe gender issues are not important to us, but it is purportedly important to the people trying to smear us. What I find naive is the attitude that sticking our heads in the sand about this will make it go away. That's been working really well for us so far. /s
 
-[edit 2] I'll paste it again: 
+edit 2 I'll paste it again: 
 
 It's not that difficult. Just say we are for diversity and inclusiveness in both games and people, but we reject the methods of the social justice movement as divisive and counterproductive.
 
@@ -274,17 +274,17 @@ As a #GG gamedev using an anonymous account, this is my reply to Raph Koster's m
 What's worse, I have actually read Raph Koster's book and, while I found some of it farfetched, have cited some of its assertions of what games are as alternative (and more cerebral) theories to those set forth by people like Anita Sarkeesian, Zoe Quinn, Brianna Wu who insist on "redefining" what a game is. I feel he's done something painfully hypocritical and contradictory here, and has an entire book to prove it.
 
 Anyway this just makes me sick to be honest. Gotta go lie down for a few minutes after seeing this. This whole thing is like a Twilight Zone episode.
-&gt; Anyway this just makes me sick to be honest. Gotta go lie down for a few minutes after seeing this. This whole thing is like a Twilight Zone episode.
+ Anyway this just makes me sick to be honest. Gotta go lie down for a few minutes after seeing this. This whole thing is like a Twilight Zone episode.
 
 /hugs to you, friend. :)
 
 We'll be alright.  A lot of people lose their principles in the face of adversity.  
 
 No Heroes.  No Idols.  
-I understand. Though I'm not a dev, I did find it rather annoying that Koster tries to present his views as representative of the vast majority of the industry if not *every* dev. It's also rather disingenuous that he spins a sensational narrative of his own about the fear and panic among devs to defend the status quo.
+I understand. Though I'm not a dev, I did find it rather annoying that Koster tries to present his views as representative of the vast majority of the industry if not every dev. It's also rather disingenuous that he spins a sensational narrative of his own about the fear and panic among devs to defend the status quo.
 
-I find both ralph Schubert actions weird, I don't mean they don't have some good reasons for wanting GG to end, but that it seems they have a **personal** stake. frankly they both feel they are doing good cop(ralph) bad cop(Schubert) act. Schubert has straight lied in some cased I couldn't even listen through the whole Radio Nero episode because of his lies 
-The reason I dislike Raph Koster's stance is because in this day and age, the game that shot him to fame, *utlima online*, would be touted as a "hyper competitive", "male fantasy", full of "tropes". Of course it was celebrated at the time, and he gained much fame recognition, and money from the wallets of male gamers - ironically... What does he do with that fame?
+I find both ralph Schubert actions weird, I don't mean they don't have some good reasons for wanting GG to end, but that it seems they have a personal stake. frankly they both feel they are doing good cop(ralph) bad cop(Schubert) act. Schubert has straight lied in some cased I couldn't even listen through the whole Radio Nero episode because of his lies 
+The reason I dislike Raph Koster's stance is because in this day and age, the game that shot him to fame, utlima online, would be touted as a "hyper competitive", "male fantasy", full of "tropes". Of course it was celebrated at the time, and he gained much fame recognition, and money from the wallets of male gamers - ironically... What does he do with that fame?
 
 
 Instead of defending the rights of creators and consumers, he helps burn the bridge of creativity that he once crossed himself, or at the very least is not really helping to defend it.
@@ -304,9 +304,9 @@ He is basically taking the same stance of the people that would have called his 
 Eve has dumbed down ,I mean is more user friendly these days..
 
 When I started I was pretty much dropped into space with the helpful advice "knock yourself out"
-&gt; Also, the sexy lady characters.
+ Also, the sexy lady characters.
 
-And female antagonist ([also sexy]).
+And female antagonist (also sexy).
 That pretty much explains Raph Koster. He entered the industry more or less as the very things he's in effect railing against today. Now with his fame, influence, connections and wealth, he's using them to act as though he represents the voice of most if not every dev out there, while ensuring that his very "success" isn't replicated again by others. Not to mention that he has his own stake in wanting to maintain the status quo.
 Good point. The lock out strategy is on full display in the gaming industry.
 Which is particularly disingenuous when he expresses sympathy for indies and devs he disagrees with, so long they play by the status quo's rules and the narrative he's had a role in shaping. Then turns his back to decry GG and those who support GG for contributing to a "toxic" environment.
@@ -327,7 +327,7 @@ Invocation of a silent majority is generally suspect.
 Also, Ecco the motherfucking Dolphin.
 On #1, "harassment is prevalent" means "for both sides." And who claimed anti was the only side with women? My point was that the climate is nasty.
 
-On #2, again, nothing there says that this is only an antiGG problem either. You're leaping to the conclusion that I was saying it was. If anything, your point that partisan anti voices have said you are unwelcome *proves my point* that social media has become unhospitable to developers.
+On #2, again, nothing there says that this is only an antiGG problem either. You're leaping to the conclusion that I was saying it was. If anything, your point that partisan anti voices have said you are unwelcome proves my point that social media has become unhospitable to developers.
 
 On #3, this is the one we would disagree on. Or rather, we both agree that GG is attacking those institutions. I happen to believe that some institutions is better than NO institutions. GG isn't capable of replacing them, after all.
 
@@ -339,26 +339,26 @@ On #5, my point is that the climate is such that developers going out there is f
 
 Fear of the audience is not fear of what they think. Fear of the audience is triggered more by stuff like swattings, threats, etc.
 
-Bottom line: you made a meme to argue with me, and most of what you said *agrees* with me.
+Bottom line: you made a meme to argue with me, and most of what you said agrees with me.
 
 Which brings us to #6. I cannot think of a single thing that GG has done that reduces the above issues. Its ongoing existence is a big part of why they are issues in the first place. That says nothing about the other merits or problems with GG. It says "these things are big problems for developers right now and GG is why they are big problems." If GG went away, then many of these issues would subside.
 
-Finally, you say "don't vilify us and expect sympathy." I have not vilified you. I am not the antis you are mad at (plenty of them are mad at *me* for even talking to you). You accuse me of damaging your life and career. I don't see how that's even possible.
+Finally, you say "don't vilify us and expect sympathy." I have not vilified you. I am not the antis you are mad at (plenty of them are mad at me for even talking to you). You accuse me of damaging your life and career. I don't see how that's even possible.
 
 Look -- I know plenty of proGG devs. I also don't move in just one small clique of developers. I am sympathetic to say, indies concerned that existing institutions don't provide avenues for exposure, or to developers worried about limitations on their creative expression.
 
 But I think it's undeniable that right now, it's plain harder to be a dev in public, regardless of what side you are on, and it's because GG is going on.
-&gt; Fear of the audience is triggered more by stuff like swattings, threats, etc.
+ Fear of the audience is triggered more by stuff like swattings, threats, etc.
 
-I've never swatted anyone Raph.  You would be hardpressed to find anyone here who isn't instantly banned and reported to the admins who advocate that.  Not sure why you are trying to argue this is something that is in any way related to GamerGate, especially given that the only (attempted) swatting that has been reported by anyone was, as far as I know, done by the people you are choosing to champion.  If proGamerGate individuals have done this, I would love to see evidence produced so I can report it to the appropriate authorities - a 15 year old kid got 25 years in prison for swatting(edit: I have been told that the 25 year sentence was a hoax - regardless, I stand by the claim that it is a **very very serious crime** - somebody could have been seriously hurt), not an entirely unjust sentence - swatting is not a joke, and it is not something you accuse people of lightly.  
+I've never swatted anyone Raph.  You would be hardpressed to find anyone here who isn't instantly banned and reported to the admins who advocate that.  Not sure why you are trying to argue this is something that is in any way related to GamerGate, especially given that the only (attempted) swatting that has been reported by anyone was, as far as I know, done by the people you are choosing to champion.  If proGamerGate individuals have done this, I would love to see evidence produced so I can report it to the appropriate authorities - a 15 year old kid got 25 years in prison for swatting(edit: I have been told that the 25 year sentence was a hoax - regardless, I stand by the claim that it is a very very serious crime - somebody could have been seriously hurt), not an entirely unjust sentence - swatting is not a joke, and it is not something you accuse people of lightly.  
 
-&gt;I cannot think of a single thing that GG has done that reduces the above issues.
+I cannot think of a single thing that GG has done that reduces the above issues.
 
 Perhaps that is because you are confused as to our nature; we don't have insider information like you do.  We didn't know about the bomb threats called into those planes until you mentioned it, here, in KotakuInAction, during your first AMA months ago now.  Why would we?  Even if we did have such information, we aren't here to 'save the world' - we just want some transparency in the media.  Trying to accuse us of not succeeding in anything while citing goals that are completely unrelated to what we want is ignorant at best, outright malicious at worst.  Ethics and transparency has nothing to do with policing the actions of individuals - rather, it has everything to do with what and how things are reported on.
 
-&gt;But I think it's undeniable that right now, it's plain harder to be a dev in public, regardless of what side you are on, and it's because GG is going on.
+But I think it's undeniable that right now, it's plain harder to be a dev in public, regardless of what side you are on, and it's because GG is going on.
 
-Sure, but that's because it's hard for everybody - not just devs.  Presenting your argument as it was gives the implication that devs are unique in this aspect; they really aren't in my opinion.  Do you think if someone like Georgie Tait saw a pro-GamerGate person in public that perhaps we might be afraid of the side arguing, in earnest and honest belief, that we should be killed?  These are not unique "jokes" either.  They are not funny.  They are frankly terrifying.  We are not going to "die" (poor choice of words given the recent controversies) until the media implements **real** and **measured** efforts to deal with this absurd bias, deal with the absurd conflicts of interest, and attempts to make amends for the harm it has, and continues, to do.  The industry cliques have to stop.
+Sure, but that's because it's hard for everybody - not just devs.  Presenting your argument as it was gives the implication that devs are unique in this aspect; they really aren't in my opinion.  Do you think if someone like Georgie Tait saw a pro-GamerGate person in public that perhaps we might be afraid of the side arguing, in earnest and honest belief, that we should be killed?  These are not unique "jokes" either.  They are not funny.  They are frankly terrifying.  We are not going to "die" (poor choice of words given the recent controversies) until the media implements real and measured efforts to deal with this absurd bias, deal with the absurd conflicts of interest, and attempts to make amends for the harm it has, and continues, to do.  The industry cliques have to stop.
 
 You said to me just last week that the Media has done a terrible job of showing the harassment of those who support GamerGate, but it seems you have just contributed to that unfortunate misleading narrative, willing or not.  
 
@@ -378,14 +378,14 @@ And so now we have that confrontation, as intended.  THAT'S THE POINT OF ILLIBER
 This is why Bill Clinton said, the other day, that identity politics are just sheer poison.  They're utterly divisive and destructive.  I hate hate hate them.  But for us, for right now, that genie is out of the lamp.  This is where we are.
 
 You're not going to put that genie back in the lamp by scolding people who identity with Gamergate.  That's how we got here in the first place.
-&gt;This is why Bill Clinton said, the other day, that identity politics are just sheer poison. They're utterly divisive and destructive. I hate hate hate them. But for us, for right now, that genie is out of the lamp. This is where we are.
+This is why Bill Clinton said, the other day, that identity politics are just sheer poison. They're utterly divisive and destructive. I hate hate hate them. But for us, for right now, that genie is out of the lamp. This is where we are.
 
 For a short 60 second summary in video form of what he is trying to say
 Morgan Freeman is indeed, based.
 This post is amazing.  Thanks for taking the time to articulate it.
 Raph, have you ever considered that GG is not the hostile environment itself, but rather a response to the one created by the games media and a small group of social "critics" that don't even care about gaming?
 
-Why would anyone who has been in the industry for so long *ever* side with such a group of people?
+Why would anyone who has been in the industry for so long ever side with such a group of people?
 Why Gamergate lives.
 
 1) The harassment was there all along.
@@ -405,17 +405,17 @@ Without GG you don't get these kinds of articles.
 Hey Raph, as a member of the industry I'd like to politely request that you stop trying to speak for anyone except yourself.
 
 Edit: I did some digging and found that the "why developers think..." part was added on ex post facto.  So please continue to speak for yourself only!
-&gt; On #5, my point is that the climate is such that developers going out there is fraught with peril. You prove my point by needing to use an anonymous account to post this in the first place. Saying something pro OR anti is dangerous now, no matter what you do you alienate people.
+ On #5, my point is that the climate is such that developers going out there is fraught with peril. You prove my point by needing to use an anonymous account to post this in the first place. Saying something pro OR anti is dangerous now, no matter what you do you alienate people.
 
 I will speak both for myself and for many others here (having been part of this community for a while, I think I can in this one instance) when I say that a dev can come out as anti-gg, and they will not alienate us. This has happened before, and most people here react with disappointment that a dev has bought into a convenient narrative about GamerGate, but unless they call us "insects" and worse (see Wheaton, Wil), we don't hold what is simply a difference of opinion against them as far as a future business interaction may occur.
 
 Consider Brad Wardell. I believe climate change is the single most important issue facing our society, and disagree vehemently with him both as a scientist and an environmentalist in his stated opinions doubting its veracity. Yet I purchase Stardock games and software, because I am not aware of him using any income I give his company specifically to promote such nonsense. And no, simply voting or writing blogs or being active politically does not count.
 
-Yet I do not support Orson Scott Card, because of reasons surrounding his political views. Not that I care more about the issue of homophobia and gay marriage than I do about climate change -- they are both important to me for different reasons -- I do this simply because he was shown to be using any income he received to provide *significant funding* to a campaign that I would not be comfortable supporting myself.
+Yet I do not support Orson Scott Card, because of reasons surrounding his political views. Not that I care more about the issue of homophobia and gay marriage than I do about climate change -- they are both important to me for different reasons -- I do this simply because he was shown to be using any income he received to provide significant funding to a campaign that I would not be comfortable supporting myself.
 
-*This* is the type of nuanced thinking that I simply do not share with anyone on the anti side, or indeed anywhere else but here it feels like sometimes.
+This is the type of nuanced thinking that I simply do not share with anyone on the anti side, or indeed anywhere else but here it feels like sometimes.
 
-Please don't try to paint both sides as being equally wrong and engaging in the same actions at their extremes. *Ask* us and listen closely to our answers, and then decide where there are differences or similarities to the best of your ability.
+Please don't try to paint both sides as being equally wrong and engaging in the same actions at their extremes. Ask us and listen closely to our answers, and then decide where there are differences or similarities to the best of your ability.
 Hi Rory,
 
 While I am indeed a skeptic regarding AGW, I try to live as if it is true. I.e. Better safe than sorry. My house has 0 net carbon foot print, is completely solar powered, geothermal heated and cooled and my daily driver car is electric powered via our solar array. :) 
@@ -425,13 +425,13 @@ Yes, I am aware of those laudable actions. Believe me, I've looked into it. :-)
 
 It's great that you have the opportunity to do those things, but be careful to not make it seem like an Olympic event. I've come to realize that not everyone is in a similar position. I am able to cycle all year (even during -40 winters) and don't own a car (well, a working one anyway), but that is not something I expect everyone else would be able to do, even if they wanted. Nor do I think I'm doing more than others (actually I wonder if I'm doing enough myself).
 
-Honestly though, I'd love to sit you down and teach you about black body radiation to help you have the tools -- and language -- to actually be a skeptic in truth (without those basic skills it's like a car mechanic who doesn't know what a carburator is...i.e. they aren't a car mechanic), but not everyone has to be fully versed in the physics of thermodynamics to respect them as a person, and give them the benefit of the doubt that they *mean well*. Otherwise, it is too easy to see them as monstrous or a criminal (as happened to you and has been done to many others as well).
+Honestly though, I'd love to sit you down and teach you about black body radiation to help you have the tools -- and language -- to actually be a skeptic in truth (without those basic skills it's like a car mechanic who doesn't know what a carburator is...i.e. they aren't a car mechanic), but not everyone has to be fully versed in the physics of thermodynamics to respect them as a person, and give them the benefit of the doubt that they mean well. Otherwise, it is too easy to see them as monstrous or a criminal (as happened to you and has been done to many others as well).
 Hey Raph. How would you go about ending GG? Is there a solution you've proposed for this?
 
 Fence sitter here. Been following along since the great deletions and censoring debacles that started a lot of this.
 
 Edit: btw, just wanted to say thanks for SWG. Was there at the start and loved it, though it ended up shit. Nothing compares to that community and those first months of the game. Miss it.
-&gt; I've been pretty not "us vs them" this whole time.
+ I've been pretty not "us vs them" this whole time.
 
 Your post was titled "why developers think Gamergate needs to die."
 
@@ -441,15 +441,15 @@ Also, you say GG wants 'institutions to die'. No, we want them to either change 
 
 The nepotism you keep supporting makes me sick. You and your attitude are keeping GamerGate alive and you don't even get it.
 
-&gt; I have not vilified you
+ I have not vilified you
 
 No, you just said you want him and everyone that agrees with him TO DIE.
 
 Yeah, that's MUCH better.
-&gt; most of what you said agrees with me.
+ most of what you said agrees with me.
 
 If you honestly believe that, then you need to reread the image. Your argument is that GG has caused a hostile environment, so killing it would benefit everyone. His argument is that GG has meerly exposed a hostile environment, so killing it would only benefit those who created the hostile environment.
-&gt;On #3, this is the one we would disagree on. Or rather, we both agree that GG is attacking those institutions. I happen to believe that some institutions is better than NO institutions. GG isn't capable of replacing them, after all.
+On #3, this is the one we would disagree on. Or rather, we both agree that GG is attacking those institutions. I happen to believe that some institutions is better than NO institutions. GG isn't capable of replacing them, after all.
 
 This is a tricky one, what if the institutions are part of the problem itself?
 Right now, ACU showed, that the media outlets are willing to sign embargo deals that end 12 hours AFTER the launch of the game, a practice that everybody should have known is only invented to delay mediocre reviews of a game and even when the reviews came out, they completely ignored, that the game was in fact absolutely broken. Sure, some outlets have spoken out and said, they won't do this again, but honestly everybody has known why this embargo was made in when it was accepted in the first place.
@@ -468,7 +468,7 @@ Asking for "GamerGate" to end only implies that one side is responsible for the 
 
 If you are speaking more as groups, I have only seen GG appeal to advertisers to avoid establishments that attack/insult them directly. The opposition is the side with large portions of the media seemingly at their control, and are not afraid to use it against those that simply disagree.
 Thanks for voicing and discussing your opinions.
-&gt;  I happen to believe that some institutions is better than NO institutions.
+  I happen to believe that some institutions is better than NO institutions.
 
 I disagree. Others would step up to fill the vaccuum once the corrupt institutions are dismantled. Also, you could apply this logic to other things: Corrupt governments, Mafia-run enterprises, The Taliban etc. 
 I appreciate you replying in this thread Raph.
@@ -488,54 +488,54 @@ Okay, this is as good a time as ever to ask this dumb question.  How the fuck do
 I clicked your link, I see the image, I click it because it is fucking small and it gets smaller and put into a black frame.
 
 I don't click shit to frame it.  What the fuck was I supposed to do?
-Sometimes right-click &gt; view image works.
+Sometimes right-click  view image works.
 Then type :large at the end of the url. Seriously.
-&gt;GamerGate needs to die
+GamerGate needs to die
 
 IN GAS CHAMBER
-[**@Wrecksey**]:
-&gt;[2014-11-14 02:51:14 UTC]
+@Wrecksey:
+2014-11-14 02:51:14 UTC
 
-&gt;Please share this with a gamedev you know, so they know they're not alone, and that they ARE appreciated! [#GamerGate] [*pic.twitter.com*] [^[Imgur]]
+Please share this with a gamedev you know, so they know they're not alone, and that they ARE appreciated! #GamerGate pic.twitter.com ^Imgur
 
 ----
 
-[^[Mistake?]]leave above link unaltered.)
-[^[Suggestion]]
-[^[FAQ]]
-[^[Code]]
-[^[Issues]]
+^Mistake?leave above link unaltered.)
+^Suggestion
+^FAQ
+^Code
+^Issues
 
 Sorry but Ultima Online was crap. Why do you care what Koster has to say? 
-&gt; Sorry but Ultima Online was crap.
+ Sorry but Ultima Online was crap.
 
 Why would you say this? :/
 Yeah, UO was the last good thing he did.
 UO was probably the best and most ingenious MMO ever designed, I still have that box and manual around here somewhere and there are still spells swirling through my head... An Mani, Corp Por, Kal Vas Flam...
-Eh, it was good for its sandbox elements but its design doesn't really hold up by today's standards in many places. I mean, any game where you essentially *have* to run macros in order to compete...
-&gt; Sorry but Ultima Online was crap. Why do you care what Koster has to say? 
+Eh, it was good for its sandbox elements but its design doesn't really hold up by today's standards in many places. I mean, any game where you essentially have to run macros in order to compete...
+ Sorry but Ultima Online was crap. Why do you care what Koster has to say? 
 
 What has it to do with the debate, that you think the game was crap? Are only people allowed to speak out, that make games you like?
 Extreme hypocrisy ahoy! Gawker wants to buy the Usher sextape.
 
-[Disgusting clickbait from Giantbomb] Says Monument Valley bombarded with one-star reviews after DLC not free. Game currently has 486 1 star out of 37,352 reviews on Google Play
+Disgusting clickbait from Giantbomb Says Monument Valley bombarded with one-star reviews after DLC not free. Game currently has 486 1 star out of 37,352 reviews on Google Play
 
 Dishonesty: Feminist Frequency, Part 2 - @cainejw
 
 My father had a few words about Milo's new article, the political undertones of anti-GamerGate, and the smear campaigns that he's seen before.
 Sorry for the throwaway.  I hope you'll understand, but I think this is worth reading.
 
-&gt; I happened to read this article yesterday when I was browsing around Breitbart.com.  I ordinarily would have passed it up, but my interest was piqued because you had enlightened me about this whole "Gamergate" thing.  This article quite frankly exposes the ugly underbelly of the Left.  This is the ugly, vile face of the intolerant, hate-filled Socialists and Statists exposed by the likes of George Orwell and Philip K. Dick.  For the neo-Marxists of the Left, there is only one agenda that is to be promoted, and that is theirs.  For them, the "means justifies the ends" and they will resort to the politics of personal destruction taking no prisoners along the way.  Their modern playbook is was written by Saul Alinsky in his "Rules for Radicals".  The strategy is simple.  Your opponents are your enemies.  You must demonize them, marginalize them, make them irrelevant.  Make up lies.  Do whatever is necessary.  These people believe they have the moral and intellectual high ground.  They know better than you do, they are smarter than you, and thus they have the right to dictate the terms upon which you may live your life.  Control of the language is critical. Phililp K. Dick who I mentioned above, was a science fiction writer, and wrote a large number of great sci fi stories including "Minority Report", "A Scanner Darkly" and "Blade Runner".  The guy was a genius.  He famously said in an essay he wrote in 1978: "If you can control the meaning of words, you can control the people who use the words."  George Orwell's great novel, "1984" was a description of a horrors of a dystopian future under Socialism.  If you keep your eyes wide open, you can see these techniques of social control and harassment all around.
+ I happened to read this article yesterday when I was browsing around Breitbart.com.  I ordinarily would have passed it up, but my interest was piqued because you had enlightened me about this whole "Gamergate" thing.  This article quite frankly exposes the ugly underbelly of the Left.  This is the ugly, vile face of the intolerant, hate-filled Socialists and Statists exposed by the likes of George Orwell and Philip K. Dick.  For the neo-Marxists of the Left, there is only one agenda that is to be promoted, and that is theirs.  For them, the "means justifies the ends" and they will resort to the politics of personal destruction taking no prisoners along the way.  Their modern playbook is was written by Saul Alinsky in his "Rules for Radicals".  The strategy is simple.  Your opponents are your enemies.  You must demonize them, marginalize them, make them irrelevant.  Make up lies.  Do whatever is necessary.  These people believe they have the moral and intellectual high ground.  They know better than you do, they are smarter than you, and thus they have the right to dictate the terms upon which you may live your life.  Control of the language is critical. Phililp K. Dick who I mentioned above, was a science fiction writer, and wrote a large number of great sci fi stories including "Minority Report", "A Scanner Darkly" and "Blade Runner".  The guy was a genius.  He famously said in an essay he wrote in 1978: "If you can control the meaning of words, you can control the people who use the words."  George Orwell's great novel, "1984" was a description of a horrors of a dystopian future under Socialism.  If you keep your eyes wide open, you can see these techniques of social control and harassment all around.
 
 Thanks for reading.
-The parallels [haven't gone unnoticed].
+The parallels haven't gone unnoticed.
 This is not a left or right issue. Both sides have their agitators and manipulators and narrative they are trying to push.
 
 The problem is across all media. We may have an "ally" in Breitbard on this one, but it's only going to be one as long as it's the "left" that get's called out. Once that is over, they will return to their old way.
 I agree. There is a lot of conservative crowing about the fact that their perpetual enemies have become the cultural censors for once, but really that's just hoping that we forget about their own attacks on RPG's (Remember the D&amp;D satanist scare?) and of course our own friend Jack Thompson.
 
 Anyone who thinks that ideologues don't try to control the masses through media is just batshit crazy. 
-&gt; Anyone who thinks that ideologues don't try to control the masses through media is just batshit crazy.
+ Anyone who thinks that ideologues don't try to control the masses through media is just batshit crazy.
 
 Left vs. right vs. the (not anymore) silent majority.
 For once?  History lesson.
@@ -554,25 +554,25 @@ Calm your tits. I'm obviously aware of all incidents of censorship back to the b
 ######&amp;#009;
 
 ####&amp;#009;
- [**Horseshoe theory**]: [](#sfw) 
+ Horseshoe theory: (#sfw) 
 
 ---
 
-&gt;
 
-&gt;The __horseshoe theory__ in [political science] asserts that rather than the [far left] and the [far right] being at opposite and opposing ends of a [linear] political [continuum]), they in fact closely resemble one another, much like the ends of a [horseshoe]. The theory is attributed to French writer [Jean-Pierre Faye]. 
 
-&gt;In [University of Reading] academic Peter Barker's  book, *GDR and Its History*, Peter Thompson  of the [University of Sheffield] observes that the theory is "increasingly orthodox," and describes the theory as seeing "left and right-wing parties being closer to each other than the centre."
+The __horseshoe theory__ in political science asserts that rather than the far left and the far right being at opposite and opposing ends of a linear political continuum), they in fact closely resemble one another, much like the ends of a horseshoe. The theory is attributed to French writer Jean-Pierre Faye. 
 
-&gt;====
+In University of Reading academic Peter Barker's  book, GDR and Its History, Peter Thompson  of the University of Sheffield observes that the theory is "increasingly orthodox," and describes the theory as seeing "left and right-wing parties being closer to each other than the centre."
 
-&gt;[**Image**] [^(i)] - *Horseshoe theorists argue that the extreme left and the extreme right are a lot more similar than members of either group would admit.*
+====
+
+Image ^(i) - Horseshoe theorists argue that the extreme left and the extreme right are a lot more similar than members of either group would admit.
 
 ---
 
-^Interesting: [^Horseshoe ^map] ^| [^Horseshoe] ^| [^Natural ^hoof ^care] 
+^Interesting: ^Horseshoe ^map ^| ^Horseshoe ^| ^Natural ^hoof ^care 
 
-^Parent ^commenter ^can [^toggle ^NSFW](/message/compose?to=autowikibot&amp;subject=AutoWikibot NSFW toggle&amp;message=%2Btoggle-nsfw+cm26sji) ^or[](#or) [^delete](/message/compose?to=autowikibot&amp;subject=AutoWikibot Deletion&amp;message=%2Bdelete+cm26sji)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| [^(FAQs)] ^| [^Mods] ^| [^Magic ^Words]
+^Parent ^commenter ^can ^toggle ^NSFW(/message/compose?to=autowikibot&amp;subject=AutoWikibot NSFW toggle&amp;message=%2Btoggle-nsfw+cm26sji) ^or(#or) ^delete(/message/compose?to=autowikibot&amp;subject=AutoWikibot Deletion&amp;message=%2Bdelete+cm26sji)^. ^Will ^also ^delete ^on ^comment ^score ^of ^-1 ^or ^less. ^| ^(FAQs) ^| ^Mods ^| ^Magic ^Words
 Thank you for this.  I'm typically liberal moderate and I dislike anyone co-opting this subject and trying to frame it into childish red vs blue.
 
 This isn't about left vs right.  That doesn't matter.  The TRUTH matters.  Exposing corporate and media interests trying to trick you into spending your hard earned money on "AAA" titles that aren't finished and seek to bleed you further on top of it (looking at you, AC:Unity and Destiny) is what matters.
@@ -580,9 +580,9 @@ This isn't about left vs right.  That doesn't matter.  The TRUTH matters.  Expos
 Ideological left vs right bullshit has no place here.
 Sure. But let's be reasonable in all this.
 
-We can absolutely make temporary allies. We can absolutely disagree with any of them at any time for any reason. The immature thing to do is go, "NO, YOU HAVE TO AGREE ON EVERYTHING, OR ELSE!", and then leave. For example, Milo is *very* anti-net neutrality. I strongly disagree with his stance, and yet he is still my ally. He has said things about gays and transexuals I disagree with, and yet he is still my ally.
+We can absolutely make temporary allies. We can absolutely disagree with any of them at any time for any reason. The immature thing to do is go, "NO, YOU HAVE TO AGREE ON EVERYTHING, OR ELSE!", and then leave. For example, Milo is very anti-net neutrality. I strongly disagree with his stance, and yet he is still my ally. He has said things about gays and transexuals I disagree with, and yet he is still my ally.
 
-Taking the high road, unlike what our opposition would have you believe, does not means trying to look like the most progressive person in the room. It means acknowledging other's differences and being reasonable about them. Sure, some issues are mutually exclusive, and you will reach an impasse. But walking away from a perfectly good situation because you and your ally aren't *exactly* the same? I don't expect my ally to be me. If they were, we'd just be a unified front all the time. 
+Taking the high road, unlike what our opposition would have you believe, does not means trying to look like the most progressive person in the room. It means acknowledging other's differences and being reasonable about them. Sure, some issues are mutually exclusive, and you will reach an impasse. But walking away from a perfectly good situation because you and your ally aren't exactly the same? I don't expect my ally to be me. If they were, we'd just be a unified front all the time. 
 
 Allies are just that: people who are with you now and might not be in the future, and that's okay, because they're best on an issue-by-issue basis. Let me put it this way: Europe fought a lot of long and bloody wars for centuries when they would pick sides based on family, or circumstance, or whatever else. Only a few nations had true rivals they fought time and time again... and then coalitions led to the World Wars, which were worse than previous wars, and fought on the grounds of ideology. It's dumb to fight wars over who married whom, but it's also pretty silly to literally gas people in ideological ground, isn't it? 
 
@@ -591,18 +591,18 @@ Based on a survey done a few weeks ago, GG seems to range from mid-left to moder
 
 It isn't left vs. right. It is batshit crazy left vs. reasonable young people.
 Very true but right now that opponents of gamer-gate would almost entirely be described as left of centre.
-This is a pretty unfair statement to say left as if SJWs and aGG people are **the left**. They're not. There's this political theory that the further left and the further right you go, the closer you get to the further right and further left.
+This is a pretty unfair statement to say left as if SJWs and aGG people are the left. They're not. There's this political theory that the further left and the further right you go, the closer you get to the further right and further left.
 
 I've seen readily apparent and many right wing ideals presented in the SJW subculture for years.
 
-Saying this aGG side is **"the left"**, is like saying WBC is **"the right"**, it's simply not fair, nor is it correct.
-Very well said! I'd add Aldous Huxley's *Brave New World* (which I believe more accurately describes the dystopian future we are currently rushing head-long into than the one proposed by 1984) and Neil Postman's *Amusing Ourselves to Death* to that reading list.
-Might as well add Kurt Vonnegut's *Harrison Bergeron*.
+Saying this aGG side is "the left", is like saying WBC is "the right", it's simply not fair, nor is it correct.
+Very well said! I'd add Aldous Huxley's Brave New World (which I believe more accurately describes the dystopian future we are currently rushing head-long into than the one proposed by 1984) and Neil Postman's Amusing Ourselves to Death to that reading list.
+Might as well add Kurt Vonnegut's Harrison Bergeron.
 Amusing ourselves to death is great, but I'd be interested in hearing how it relates to gamer gate. I can understand how the affordances of commercial driven advertising journalism necessarily lead to sensationalism, but I can also see arguments about important deficiencies of video games as a medium.
 I self identify as a left leaning liberal type person guy and I cringe every time this is framed as left vs right.
-Politics is way more complex than one axis from side to side. Waaaay more complicated. I can list five economic theories and it would be detrimental to all of them to simply place them on a left-to-right scale of what political parties endorse them. The graph with the authoritarian versus libertarian axis *helps*, but it's still not capturing the depth or nuance of real politics, and it still boils "left" and "right" down to some nebulous beliefs. It's sort of the D&amp;D alignment chart of politics: not perfectly accurate, but still better than a slider by a long shot.
+Politics is way more complex than one axis from side to side. Waaaay more complicated. I can list five economic theories and it would be detrimental to all of them to simply place them on a left-to-right scale of what political parties endorse them. The graph with the authoritarian versus libertarian axis helps, but it's still not capturing the depth or nuance of real politics, and it still boils "left" and "right" down to some nebulous beliefs. It's sort of the D&amp;D alignment chart of politics: not perfectly accurate, but still better than a slider by a long shot.
 
-I dislike moral guardians. I dislike the moral majority. I'm not going to pretend for a second that this belief puts me anywhere but on the opposite side of wherever *they* are. But I'm certainly not going to pretend I agree with *everything* they disagree with as a result.
+I dislike moral guardians. I dislike the moral majority. I'm not going to pretend for a second that this belief puts me anywhere but on the opposite side of wherever they are. But I'm certainly not going to pretend I agree with everything they disagree with as a result.
 
 American politics sucks because it's polarized. I hate how polarized it is. I hate how I can't vote red or they'll probably ban gay marriage or birth control. I hate how I can't vote blue because they're probably just going to raise taxes but never even try to cut military funding. I hate how neither really represents my interests.
 
@@ -611,7 +611,7 @@ You are part of the problem if you are a leftist. In fact, this is true in almos
 When someone right-wing starts talking about 1984, I often find it helpful to point out that Orwell was a committed democratic socialist.    
 I thought that was obvious. Dick was no Nixonian Republican himself.
 
-Much of Orwell's work, Animal Farm for instance, was a scathing satire of totalitarian leftism *from the left*. He was railing against much of the same shit we are: .
+Much of Orwell's work, Animal Farm for instance, was a scathing satire of totalitarian leftism from the left. He was railing against much of the same shit we are: .
 
 You can be right-wing as fuck and still get together with leftists to fight against totalitarianism from either of the (artificially created) sides. 
 This is true, and it paints most of Orwell's work a certain color.  The power he had, though, was that he could be critical of both his own politics, as well as the opposition.  Like IvanRuinsEverything said, Animal Farm was all about how easily politics and politicians can take socialism, something he really believed in, and turn it into a nightmare of abuse and hatred, all the more insightful for just how much he knew and truly cared about the ideals involved.
@@ -635,7 +635,7 @@ It kind of seems like he doesn't really separate radicals because he just sort o
 He might be interested to know Orwell was a socialist.
 An argument can also be made to link the far right master of attacking and smear, Newt Gingrich, to the original issue of dehumanizing the opposite side, with his campaigns in the 80s. However it should be made clear that for the most part this is an issue as two other people wisely mentioned - one, this is a relative of the horseshoe theory, and two, this should not be a political issue, or at least not fought as a political issue. GamerGate brings people together across distance, ideological lines, gender, sexual orientation, and more for a singular reason - journalistic ethics. Your father is at least well-meaning, even if he sees this through a very far right tinted lens.
 Gah the sheer amount of blind political ideology just made my head hurt!
-&gt; The strategy is simple. Your opponents are your enemies. You must demonize them, marginalize them, make them irrelevant. Make up lies. Do whatever is necessary. These people believe they have the moral and intellectual high ground. They know better than you do, they are smarter than you, and thus they have the right to dictate the terms upon which you may live your life. Control of the language is critical.
+ The strategy is simple. Your opponents are your enemies. You must demonize them, marginalize them, make them irrelevant. Make up lies. Do whatever is necessary. These people believe they have the moral and intellectual high ground. They know better than you do, they are smarter than you, and thus they have the right to dictate the terms upon which you may live your life. Control of the language is critical.
 
 That you see the same thing from right wing outlets like Fox News shows it's not a left vs right issue. They may be different teams, but it's the same sport, the same set of rules.
 
@@ -643,35 +643,35 @@ I have an aunt that has been entirely brainwashed by the Fox nonsense and talkin
 Your father seems a little mixed up, which is probably not unrelated to the fact that he browses around Breitbart.com. George Orwell was a socialist. SJWs are authoritarian, use some leftist language, and pretend to be anti-capitalist, but they are not socialists by any reasonable definition of the word.
 "This is the ugly, vile face of the intolerant, hate-filled Socialists and Statists exposed by the likes of George Orwell and Philip K. Dick. For the neo-Marxists of the Left, there is only one agenda that is to be promoted, and that is theirs."
 
-*eyesroll
+eyesroll
 
 Tell your old man we're not in the 50's anymore
 The Left is not a monolith. Feminist frequency has negative things to say about games that you may disagree with but they aren't calling for anything to be made illegal. If reviews of games are a bit lower in some outlets because of criticisms of how the games portray women that's not censorship either. I can't even understand the idea that free speech happens when critics are silenced. 
-&gt;they aren't calling for anything to be made illegal.
+they aren't calling for anything to be made illegal.
 
 No, they just want to brainwash everyone into not wanting to make or buy anything that doesn't fit their sensibilities.  
 
 Quoting Sarkesian (7:24 in the video):
 
-&gt;We need developers to take responsibility for their communities right? *Like what are their games telling their community that's appropriate or not appropriate?*  How are their forums allowing conversations to happen or not happen?  What are all of...there are so many things, right, we could like brainstorm a million ways that we could create these structural changes.  And creating structural change means people have to follow those structures."
+We need developers to take responsibility for their communities right? Like what are their games telling their community that's appropriate or not appropriate?  How are their forums allowing conversations to happen or not happen?  What are all of...there are so many things, right, we could like brainstorm a million ways that we could create these structural changes.  And creating structural change means people have to follow those structures."
 
 Fuck her and anyone who defends her.
-&gt; George Orwell's great novel, "1984" was a description of a horrors of a dystopian future under Socialism.
+ George Orwell's great novel, "1984" was a description of a horrors of a dystopian future under Socialism.
 
 I think my eyes just launched out of my sockets, that's how hard they rolled back. Socialism is not a scary thing.
 Remember that Orwell himself was a Democratic Socialist
 Breitbart was a piece of shit race baiter and a notorious liar. The fact that your father frequents his site says a lot about him.
 Ignoring the lack of provided evidence for the statement you just made, consider the logic behind your statement:
 
-&gt;The founders of a company, regardless of their current involvement with the company (in this case due to death), reflect the behaviors of anybody who takes interest in said company.
+The founders of a company, regardless of their current involvement with the company (in this case due to death), reflect the behaviors of anybody who takes interest in said company.
 
-So if I were a Volkswagen enthusiast, by your logic I would be supporting the ideals of the [Nazi trade union] that founded Volkswagen, regardless of whether or not Nazis now have any involvement with Volkswagen (with the exception of creating the name).
+So if I were a Volkswagen enthusiast, by your logic I would be supporting the ideals of the Nazi trade union that founded Volkswagen, regardless of whether or not Nazis now have any involvement with Volkswagen (with the exception of creating the name).
 
-Or if I browsed Vox.com, by your logic I would be supporting the [Journolist], a private forum created by the founder of Vox.com (Ezra Klein) for the purpose of denigrating conservatives and (reportedly) conspiring to support the then-presidential candidate Barrack Obama.
+Or if I browsed Vox.com, by your logic I would be supporting the Journolist, a private forum created by the founder of Vox.com (Ezra Klein) for the purpose of denigrating conservatives and (reportedly) conspiring to support the then-presidential candidate Barrack Obama.
 
 Is this correct?
 
-Edit: And once again a GamerGhazi poster never replied to a question. [Life goes on.]
+Edit: And once again a GamerGhazi poster never replied to a question. Life goes on.
 Stay classy ghazi. No wonder he wanted to use a throwaway.
 I still kinda miss him, he was hilarious.
 
@@ -685,8 +685,8 @@ CBC is a public broadcaster making it more "accountable" than corporate media. S
 
 Intel are NOT back advertising at Gamasutra it's adverts provided by another service the same way youtube adverts work really
 
-[Not GG] Time and Wall Street Journal op-ed pieces against net neutrality by writers who did not disclose their ties to service providers.
-[This article] is floating around /r/technology right now.. Thought I should point it out and see what everyone thought about it? The question being, would it be wise to speak out about it as a group?
+Not GG Time and Wall Street Journal op-ed pieces against net neutrality by writers who did not disclose their ties to service providers.
+This article is floating around /r/technology right now.. Thought I should point it out and see what everyone thought about it? The question being, would it be wise to speak out about it as a group?
 The #WAMhammer strikes again! @RogueStarLLC has been suspended.
 Check it: 
  His original acount is also still suspended: 
@@ -725,7 +725,7 @@ Make sure your list isn't in the past tense. It's still ongoing.
 Mention the GG Harassment Patrol. Mention GG's discovery and reporting of AS's Brazilian harasser. Source EVERYTHING, and not with spurious partisan sources. Make a claim, back it up like a journalist would. Use the GG wiki, use the dossier. There's enough there.
 
 And don't say "I'd just..." Be more firm and committal. CBC is a national broadcaster in the midst of a PR scandal of their own (the mishandling of Jian Ghomeshi's abuse allegations by staff members). The last thing they want is their credibility challenged right now. Put together a slam dunk for the ombudsman, CC the reporter on Twitter, show them how badly they did their jobs, and get more people to do the same.
-&gt;It does not mention the money that #gamergate has raised for The Fine Young Capitalists, a **radical feminist group** whose sole purpose is to empower and enable more women to work and be involved in the video game industry    
+It does not mention the money that #gamergate has raised for The Fine Young Capitalists, a radical feminist group whose sole purpose is to empower and enable more women to work and be involved in the video game industry    
     
 Remove "radical".
 Don't forget to mention that they had the interview of Dawe but purposefully opted not to include it.
@@ -753,17 +753,17 @@ For context, if anyone doesn't know, Jennie Bharaj is setting up a website by th
 
 The criticisms of gamergate promoting this website seem to be:
 
-**1) Creating "that which we hate" in creating a review aggregation website.
+1) Creating "that which we hate" in creating a review aggregation website.
 
 2) Hypocrisy in making fun of people's use of patreon whilst supporting the indiegogo campaign for BasedGamer
 
 3) Hypocrisy around the idea of promotion of friends' projects
 
-4) Hypocrisy about the idea of nepotism**
+4) Hypocrisy about the idea of nepotism
 
 So let's take this step by step.
 
-**1) Creating "that which we hate."**
+1) Creating "that which we hate."
 
 It is a mistake to assume that gamergate is inherently against game reviews, or game review aggregation in general. Many in gamergate are critical of metacritic and its influence in the gaming industry, but this is not to say that review aggregation as a concept is flawed.
  Metacritic is an exclusive club, and while I don't know the exact specifics of who's reviews get counted by its system, needless to say you have to be some level of professional for your game score to get counted into their average.
@@ -776,29 +776,29 @@ If you want to actually read the content of the reviews themselves, whatever you
 
 In short, it is false equivalence to equate criticism of metacritic as a criticism of review aggregation in general, and the creation of a new and completely different kind of aggregator is in no way contributing to the problem.
 
-**2) Hypocrisy in making fun of people's use of Patreon whilst supporting the indiegogo campaign for BasedGamer**
+2) Hypocrisy in making fun of people's use of Patreon whilst supporting the indiegogo campaign for BasedGamer
 
 There has been quite a lot of joking around about Patreon, mostly when a pro-gamergate supporters receives some kind of abuse there are jokes about "time to set up a Patreon."
 This is not a condemnation of Patreon itself, nor is it a condemnation of crowdfunding in general. It is only, specifically, a criticism of using Patreon in a specific way. Promoting yourself through telling stories of bad things that happen to you, especially when this leads to news articles about you, and then shortly thereafter reminding people that you have a patreon they can donate to.
 Jennie Bharaj is in no way promoting herself through victimhood, she is known in gamergate for being an outspoken supporter and advocate for gamers in the face of media lies and propaganda. Moreover, she is not asking money simple for existing, but for a legitimate project with clearly define goals.
 To say that you can never contribute to any legitimate crowdfunding project, because you once made fun of someone using the same system to get money from sympathy, is creating somewhat of a false dichotomy of the idea that you're either 100% against crowdfunding, or you endorse every possible use of it.
 
-**3) Hypocrisy about the idea of promoting a friends project.**
+3) Hypocrisy about the idea of promoting a friends project.
 
 The simplest thing I can say here is that promoting a project made by a prominent member of a community is not the same as promoting a friends project. Namely because we're not promoting it JUST BECAUSE she is Jennie Bharaj, but because we actually support the idea.
-Also, gamergates problem with promoting a friend's project is, again, not with the basic concept of promoting a friend, but the specific context of a journalist or reviewer, who's job it is to inform their readers of interesting games or projects, telling us we should support or buy a product *because they are friends with the developer* and *without disclosing that information.* If a journalist was to review a friends game, and make it clear they were friends, gamergate would have no problem with that.
+Also, gamergates problem with promoting a friend's project is, again, not with the basic concept of promoting a friend, but the specific context of a journalist or reviewer, who's job it is to inform their readers of interesting games or projects, telling us we should support or buy a product because they are friends with the developer and without disclosing that information. If a journalist was to review a friends game, and make it clear they were friends, gamergate would have no problem with that.
 Gamergate members are neither journalists (for the most part) nor are they reviewing this website in any kind of professional manner, and even if they were, any personal connection (even just as a fan of Jennie) is clearly disclosed just by the nature of their support of gamergate, of which Jennie is a big contributor.
 
-**4) Hypocrisy around the ideas of nepotism**
+4) Hypocrisy around the ideas of nepotism
 
 So a brief definition of exactly what nepotism is:
-&gt;nepotism
+nepotism
 
-&gt;ˈnɛpətɪz(ə)m
+ˈnɛpətɪz(ə)m
 
-&gt;noun
+noun
 
-&gt;the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs.
+the practice among those with power or influence of favouring relatives or friends, especially by giving them jobs.
 (Taken from google)
 
 
@@ -816,27 +816,27 @@ This isn't really strictly gamergate related, or particularly important as the c
 
 Sorry if this got really long, I have a habit of that.
 Proposal: Continue GG's outreach through signal boosting positive stories that are being ignored in favor of crab mentality, tabloid BS.
-So I was reading /u/maxgarzo's post [in this thread].  
+So I was reading /u/maxgarzo's post in this thread.  
 
-Anyone who's aware of the basic idea that inspiring stories drive recruitment knows what an opportunity something as historic as this *should* be.  Like he says, if your goal is to get more women into the sciences, this is exactly the kind of story you push.  
+Anyone who's aware of the basic idea that inspiring stories drive recruitment knows what an opportunity something as historic as this should be.  Like he says, if your goal is to get more women into the sciences, this is exactly the kind of story you push.  
 
 Of course SJWs are once again doing their best to scare the shit out of women and young girls, and make them think the sciences are a hostile, terrible place.  Like demonic pigeons, they seem to be everywhere, thunderously crapping on everything good with their divisive culture of fear.
 
-Debunking them is great, why not *also* counter their obstructionism in the most direct way possible?  For what I'm talking about, we don't need to engage them or dispute their arguments.  **We just post links to positive and inspiring stories people are missing out on during an SJW shitstorm.**  We join or create a hastag and jackhammer twitter with that inspiring positivity.  Sometimes no one is writing about them, so we could make a simple blog post that collects some of the relevant info like /u/maxgarzo's post does.
+Debunking them is great, why not also counter their obstructionism in the most direct way possible?  For what I'm talking about, we don't need to engage them or dispute their arguments.  We just post links to positive and inspiring stories people are missing out on during an SJW shitstorm.  We join or create a hastag and jackhammer twitter with that inspiring positivity.  Sometimes no one is writing about them, so we could make a simple blog post that collects some of the relevant info like /u/maxgarzo's post does.
 
 I'm talking about applying this to everything, gaming, politics, business.  Any worthy story, similar to what the charity arm of GG has done in the past.  Anything the high dreadlords of victimhood don't seem to take an interest in.  Go old school on them, go full Fred Rogers/Carl Sagan on their ass.  Positivity and educational material.
 
-**Sample:**
+Sample:
 
-&gt; .#KathrinAltwegg #CometLanding #womeninscience LINK
+ .#KathrinAltwegg #CometLanding #womeninscience LINK
 
 Stealing this from /u/maxgarzo.  Small blog post that has something like:
 
-&gt;[Altwegg has 23 publications to her name] relevant to the Rosetta missions. 
-[We now know what a comet SMELLS like thanks to her.]
-She's written a [BOOK] on the birth of comets.
+Altwegg has 23 publications to her name relevant to the Rosetta missions. 
+We now know what a comet SMELLS like thanks to her.
+She's written a BOOK on the birth of comets.
 
-**So what's a good story?  What are we not hearing about while we're doing shirtless wrestling with antiGG?  While SocJus is tearing people down, what's the angle we SHOULD hear that would lift everybody up?**
+So what's a good story?  What are we not hearing about while we're doing shirtless wrestling with antiGG?  While SocJus is tearing people down, what's the angle we SHOULD hear that would lift everybody up?
 
 (As an aside, the #womeninscience hastag seems to largely be a PR device for fucking L'Oreal.  Dunno how you guys feel about that or if it ultimately matters.  It feels weird to me.)
 I have zero issue with hijacking #womeninscience for this purpose. In advance of probable backlash. "They're hijacking a women's cosmetic hashtag, those women haters!"
@@ -854,7 +854,7 @@ TotalBiscuit is vilified on NeoGAF for siding with GamerGate, he's compared to H
 TB is called Hitler:
 TB is evidently brother in arms with Neo Nazis:
 
-The topic was originally about Assassin's Creed: Unity's performance on the PC. Or rather how it completely bugs out on 2 SLI 980s at a reasonable 1080p resolution. **NOT SO FAST**, says the Social Justice police, **where are his credentials to talk about this?** 
+The topic was originally about Assassin's Creed: Unity's performance on the PC. Or rather how it completely bugs out on 2 SLI 980s at a reasonable 1080p resolution. NOT SO FAST, says the Social Justice police, where are his credentials to talk about this? 
 
 
 Social Justice do what they do best, the Dogpile-No-Jutsu with Echochamber affinity. It's super effective! Thread is locked (having nothing to do with GamerGate), inflammatory posters get gold stars, and vitriol goes unpunished so long as it's anti-GamerGate! They even have a nickcname for us, "gators".
@@ -896,16 +896,16 @@ Well unless everyone, including Leigh and others, are trying to double down on l
 
 I think Intel has replaced their ads.
 
-THIS MAKES ME SO MAD I JUST WANT TO **shrug.**
+THIS MAKES ME SO MAD I JUST WANT TO shrug.
 
 Let's be honest, people. Intel was our first big ad-pull victory, but it was centered entirely on our complaints over Leigh's article.
 
-Gawker? Gawker's a shithole. The kind of crap Gawker does on a consistent basis is finally getting the negative attention it *deserves.* But if we honestly thought Intel was going to stay away from a big site like Gamasutra because we were salty over a specific author/article (which is now 3 months old), we *really* don't know how corporations work.
+Gawker? Gawker's a shithole. The kind of crap Gawker does on a consistent basis is finally getting the negative attention it deserves. But if we honestly thought Intel was going to stay away from a big site like Gamasutra because we were salty over a specific author/article (which is now 3 months old), we really don't know how corporations work.
 
-Guys, this is why we need to be supporting *constructive* goals. Forming our own websites. Supporting websites. Starting positive gaming projects. Working on organized groups and legitimate, non-tinfoily information packets like the dossier.
+Guys, this is why we need to be supporting constructive goals. Forming our own websites. Supporting websites. Starting positive gaming projects. Working on organized groups and legitimate, non-tinfoily information packets like the dossier.
 
-I love the fact that we've won a lot of victories with advertisers, I really do. But **this shows us that just trying to hit the wallets of sites we don't like is not a silver bullet for all our woes.**
-&gt; I think Intel has replaced their ads.
+I love the fact that we've won a lot of victories with advertisers, I really do. But this shows us that just trying to hit the wallets of sites we don't like is not a silver bullet for all our woes.
+ I think Intel has replaced their ads.
 
 Someone esle was having a conversation with that person and according to her, Ad Aggregation - Direct sponsorship..
 
@@ -929,7 +929,7 @@ Lying site-wide on public channels and on the official twitter account is a comp
 They haven't exactly been the paragons of reason for the last three months.
 Yes.  Because our opponents are most feared for their strict adherence to logic.
 They did it because Frank jumped on this like an idiot and got retweeted by over 300 people 
-I just...I don't think so. The entire site goes into conspiratorial damage control mode because a *former* writer tweeted something?
+I just...I don't think so. The entire site goes into conspiratorial damage control mode because a former writer tweeted something?
 it's not about their connection to him it's about how many people jumped on his tweet
 
 feel free to doubt it if you want but there is no evidence for the alternative theory 
@@ -938,7 +938,7 @@ And further discussion of the AdChoice logo
 Archive. If they are lying about that it is the same issue as Gawker lying about their partners. Serious trouble.
 Additionally, DiGRA members have already discussed the ways that Gamasutra pushes their agenda and I'm going to want them gone until that changes
 we both know how echochamber work be patient :)
-&gt; are trying to double down on lying/stupidity...
+ are trying to double down on lying/stupidity...
 
 the answer
 Reading through your post history has raised concerns. I won't call you a "shill" but I will say that we aren't going to ease up on Leigh or Gamasutra.
@@ -952,7 +952,7 @@ Anyone here Not banned from the Ghazi ?
 If so it might be worth X posting it to see if they'll provide some. They're the ones making claims after all.
 They would probably ban you for trying. They're not big fans of evidence and verification over there.
 oh I Know I'm already banned from there
-[yeah somebody already posted one over there.]
+yeah somebody already posted one over there.
 Consider the following
 
 Ad choice is based directly on your preferences so I don't think that theory makes sense. I do think you can do this with ad sense in general but that doesn't seem to be what is going on here. 
@@ -965,9 +965,9 @@ There has been some confusion about this, so I will point out that AdChoices is 
 
 Links:
 
-[AdChoices]
+AdChoices
 
-[DAA]
+DAA
 
 
 Yes that's the Google Ad. I reloaded Gamasutra to get that exact ad because it was the one Frank posted. I
@@ -995,7 +995,7 @@ But they might also be engaged in lying since Intel does not have an actual camp
 Either way we need to ask intel about this.
 On the other hand, 
 I believe they got the adchoices ad, but I don't think that is that big of a deal. Intel didn't think to blacklist them from a program that would just be putting a different ad there anyway. It's irrelevant. 
-[From GamerGhazi]
+From GamerGhazi
 
 This is not a picture of an ad on Gamasutra
 WHAT DOES THAT FUCKING PROVE? 
@@ -1046,32 +1046,32 @@ Sure, they might be pricks, but we shouldn't assume they're paid to be pricks.
 BTFO
 That's about as hardcore trolling I'd imagine from a mormon kid from utah.
 looks like a trap. their site is an ad site, not a paid troll site. kids from utah don't know how to troll without saying excuse me afterwards, like a canadian says sorry, unless you're a person of color or an atheist. poop, i almost touched it.
-[**@RanGa996**]:
-&gt;[2014-11-08 18:07:45 UTC]
+@RanGa996:
+2014-11-08 18:07:45 UTC
 
-&gt;Shills gunna shill [#GamerGate]
-&gt;An actual company of paid "disruptors"
-&gt;[*archive.today*] [*pic.twitter.com*] [^[Imgur]]
+Shills gunna shill #GamerGate
+An actual company of paid "disruptors"
+archive.today pic.twitter.com ^Imgur
 
 ----
 
-[^[Mistake?]]leave above link unaltered.)
-[^[Suggestion]]
-[^[FAQ]]
-[^[Code]]
-[^[Issues]]
+^Mistake?leave above link unaltered.)
+^Suggestion
+^FAQ
+^Code
+^Issues
 
 Time to e-mail/write to the BBC's Director of news about Gamergate coverage.
 I just got my response from the BBC, as with others it's the same bullshit we keep hearing, except they told me to complain to the director of news. So lets do that.
 
 The problem with their excuse for coverage is thus 
 
-&gt;"As part of our wider coverage we also heard from a UK-based Gamergater who insisted on being called Sargon of Akkad but would not tell us his real name:
-&gt; 
-&gt;&gt; 
-&gt; It’s worth pointing out more generally that the failure of Gamergaters to provide their real identities prevents us holding them up to the same level of scrutiny as the women we’ve interviewed since the original article about which you’ve complained was published.
-&gt; 
-&gt; In closing, our technology team wished to reiterate again that the primary focus of their articles has been online abuse rather than the wider GamerGate campaign and its allegations of widespread corruption in the gaming press."
+"As part of our wider coverage we also heard from a UK-based Gamergater who insisted on being called Sargon of Akkad but would not tell us his real name:
+ 
+ 
+ It’s worth pointing out more generally that the failure of Gamergaters to provide their real identities prevents us holding them up to the same level of scrutiny as the women we’ve interviewed since the original article about which you’ve complained was published.
+ 
+ In closing, our technology team wished to reiterate again that the primary focus of their articles has been online abuse rather than the wider GamerGate campaign and its allegations of widespread corruption in the gaming press."
 
 While Interviewing Zoe Quinn (Real name : Chelsea) they were fine with a fake name, while dealing with Sargon this was unacceptable, even though they interview countless celebrities who do the same thing.
 
@@ -1108,11 +1108,11 @@ The Anon Culture is Worth Defending
 It goes without saying. Also Wil Wheaton is a fucking dumbass because now everyone will be doxed easier. It's stupid because now in order to avoid some nasty words on the internet, you are actually putting people at greater risk from something in the real world.
 Damn fucking straight it is.
 
-Oh, look, RogueStar's ***second*** account just got banned. 
-Who's next?  Me?  *YOU?*
+Oh, look, RogueStar's second account just got banned. 
+Who's next?  Me?  YOU?
 I'm not on twitter.
 
-You think that will stop them!!! *Really???* They'll create a twitter account for you **AND THEN BAN IT!!!!!**
+You think that will stop them!!! Really??? They'll create a twitter account for you AND THEN BAN IT!!!!!
 
 Sorry, got carried away.
 
@@ -1123,43 +1123,43 @@ Old school anon checking in.  That means from the 80's and 90's, of course it's 
 The easiest way to shut a person down isn't shouting them down, it's finding out who they are and using intimidation.  That's why it's important, and I'm sure someone will say "but what about nutjob xyz" even nut jobs are allow to have a voice, even if they're crazy and wear two layers of tinfoil.
 Hi. Wasn't there a thing about "real names" in the old... and  I mean old... Usenet?
 Sorry, I'm too young to remember that time, I'm just curious, since some of our older hackers (the White Hat ones of course) tell stories about that time.
-[Awareness] We're so blindsided that we assumed journalists sympathetic to our side already know about most of the ethical issues going on
-Edit: [Georgina is interested in covering these stories]! 
+Awareness We're so blindsided that we assumed journalists sympathetic to our side already know about most of the ethical issues going on
+Edit: Georgina is interested in covering these stories! 
 
-**tl;dr The stories of corruption and ethical breaches are getting lost in the depths of twitterverse, KiA and /gg/ and we can do something about it.**
-
-
-Everyone here knows that our ethical concerns aren't being covered, but what most don't realize is just how bad the situation is. *Even* Milo didn't know about the Hernandez/Anthropy/Love and Temkin issues prior to posting [this], and now he has about [5 good stories to consider covering]. We're so used to keeping abreast with news about ethical issues that we assumed that [he already knew about these and decided against running it]. If he doesn't even know half of all these issues, we can forget about majority of the outsiders looking in and expecting them to know about even a lick of the corruption going on.
+tl;dr The stories of corruption and ethical breaches are getting lost in the depths of twitterverse, KiA and /gg/ and we can do something about it.
 
 
-Expanding on some of the points made by [Milo].
+Everyone here knows that our ethical concerns aren't being covered, but what most don't realize is just how bad the situation is. Even Milo didn't know about the Hernandez/Anthropy/Love and Temkin issues prior to posting this, and now he has about 5 good stories to consider covering. We're so used to keeping abreast with news about ethical issues that we assumed that he already knew about these and decided against running it. If he doesn't even know half of all these issues, we can forget about majority of the outsiders looking in and expecting them to know about even a lick of the corruption going on.
 
-&gt; To get people--especially other journalists--to take you seriously, you need to show wrongdoing, especially if systematic: how scores are manipulated due to financial relationships, how personal relationships lead to positive coverage, money changing hands
 
-&gt;The main problem I have with people such as Jason Pontin, a terrific, fair, talented journalist, editor of MIT Technology Review and a friend of mine who would be open to GG's arguments if he found them compelling, is that there is a lot of fury around but not much clear exposure of serious wrongdoing.
+Expanding on some of the points made by Milo.
+
+ To get people--especially other journalists--to take you seriously, you need to show wrongdoing, especially if systematic: how scores are manipulated due to financial relationships, how personal relationships lead to positive coverage, money changing hands
+
+The main problem I have with people such as Jason Pontin, a terrific, fair, talented journalist, editor of MIT Technology Review and a friend of mine who would be open to GG's arguments if he found them compelling, is that there is a lot of fury around but not much clear exposure of serious wrongdoing.
 
 Journalists aren't seeing the ethical issues because there's no coverage about the ethical issues. As stupid as it sounds, journalists don't want to touch it because journalists don't want to touch it. It's a catch-22 and the only way to break out of it is to get journalists on our side (or neutral) to cover those stories and have them attract other journalists, but even then, we aren't doing that well on that front.
 
 
-We have tried reaching out to journalists and it isn't helping much. What we can do is to show journalists who wander in here that there are some good, ["juicy" individual stories to cover]. Visibility on those existing stories is what we need (the way reddit works makes non news stories hard to find) and one of the best ways that can be done is to place a sticky that specifically covers some of the ethical issues already uncovered. Keeping things simple attracts attention, and links can be provided to more detailed articles for those interested in reading further. The GamerGate Dossier is great and I'm really crossing my fingers that some big impact will come out of this, but it also has a flaw. It's 50 pages and most of the people who read it are the ones who already are interested in the first place. We can make things easier for them by giving them individual stories to focus on, rather than one big picture and expect them to connect the dots themselves. Sucks that we have to do some of the legwork and inform them on who to interview/contact, but I guess that's how it feels like to play on lunatic mode. *_Easy modo? Only kids play in easy mode!!_* Milo's article about Brad Wardell garnered attention because it's a story, showed a human side of this and the effects of unethical coverage ultimately causing people harm. 
+We have tried reaching out to journalists and it isn't helping much. What we can do is to show journalists who wander in here that there are some good, "juicy" individual stories to cover. Visibility on those existing stories is what we need (the way reddit works makes non news stories hard to find) and one of the best ways that can be done is to place a sticky that specifically covers some of the ethical issues already uncovered. Keeping things simple attracts attention, and links can be provided to more detailed articles for those interested in reading further. The GamerGate Dossier is great and I'm really crossing my fingers that some big impact will come out of this, but it also has a flaw. It's 50 pages and most of the people who read it are the ones who already are interested in the first place. We can make things easier for them by giving them individual stories to focus on, rather than one big picture and expect them to connect the dots themselves. Sucks that we have to do some of the legwork and inform them on who to interview/contact, but I guess that's how it feels like to play on lunatic mode. _Easy modo? Only kids play in easy mode!!_ Milo's article about Brad Wardell garnered attention because it's a story, showed a human side of this and the effects of unethical coverage ultimately causing people harm. 
 
 
 We can also inform sympathetic journalists of potential good stories to cover and see if they are willing to do so.
-Again, from [Milo].
+Again, from Milo.
 
-&gt;What I need help with is understanding who's who, timelines, collecting evidence, etc., because this world is still new to me, in reporting terms, and I don't know everyone in it, nor where people hang out, who posts where, etc. You guys know all of this.
+What I need help with is understanding who's who, timelines, collecting evidence, etc., because this world is still new to me, in reporting terms, and I don't know everyone in it, nor where people hang out, who posts where, etc. You guys know all of this.
 
-&gt;If you can establish that someone was writing, especially positively, about someone they were in a sexual relationship with--even living with--without disclosing it... well, that is a story. That is wrongdoing. That is unethical.
+If you can establish that someone was writing, especially positively, about someone they were in a sexual relationship with--even living with--without disclosing it... well, that is a story. That is wrongdoing. That is unethical.
 
-&gt;So rather than tweet about it all day, help me to write it up by sending me what you know--with evidence. It's my job to verify everything independently, fact-check your claims, and seek comment, in most cases, from the people concerned before writing up and publishing.
+So rather than tweet about it all day, help me to write it up by sending me what you know--with evidence. It's my job to verify everything independently, fact-check your claims, and seek comment, in most cases, from the people concerned before writing up and publishing.
 
-&gt;Having a published story out there is powerful, in a way that thousands of tweets, which evaporate as soon as they are sent, are not. It helps the outside world to understand why you're so frustrated. At the moment, they don't. Help me to help you.
-
-
-This lack of coverage also ties in with another problem we have with PR. People don't understand why we are so angry and might assume that we really are angry because of "women in gaming". Majority of the people are going to wikipedia to read the article and form their conclusions based off of it. We have facts on our side but [few good articles exposing those corruption and mostly chan-like images detailing such practices]. The other side has 'credible' news sites helping with the smear campaign. The lack of coverage is the next *big* reason (after Ryulong and his cronies) that we can't do anything much on wikipedia because we lack enough 'credible' sources to cite. Jimmy Wales [challenged us to write an article] to see how different it'll be from the one currently on wiki. Here's the catch though. We have the facts, but we **can't** add majority of those in simply because we can't cite any credible sources. Call it paranoia if you want to, but at this current state, it's set up for failure. One or two links that do cover ethical concerns can simply be brushed off "no two sides" because it's too insignificant. But if we have a few dozen, it'll be harder for them to brush off without looking like they are trying to push a POV.
+Having a published story out there is powerful, in a way that thousands of tweets, which evaporate as soon as they are sent, are not. It helps the outside world to understand why you're so frustrated. At the moment, they don't. Help me to help you.
 
 
-To put it simply, *by increasing the visibility of the known ethical problems, we gain more ammo to win the PR battle.* So send those emails... to journalists too! 
+This lack of coverage also ties in with another problem we have with PR. People don't understand why we are so angry and might assume that we really are angry because of "women in gaming". Majority of the people are going to wikipedia to read the article and form their conclusions based off of it. We have facts on our side but few good articles exposing those corruption and mostly chan-like images detailing such practices. The other side has 'credible' news sites helping with the smear campaign. The lack of coverage is the next big reason (after Ryulong and his cronies) that we can't do anything much on wikipedia because we lack enough 'credible' sources to cite. Jimmy Wales challenged us to write an article to see how different it'll be from the one currently on wiki. Here's the catch though. We have the facts, but we can't add majority of those in simply because we can't cite any credible sources. Call it paranoia if you want to, but at this current state, it's set up for failure. One or two links that do cover ethical concerns can simply be brushed off "no two sides" because it's too insignificant. But if we have a few dozen, it'll be harder for them to brush off without looking like they are trying to push a POV.
+
+
+To put it simply, by increasing the visibility of the known ethical problems, we gain more ammo to win the PR battle. So send those emails... to journalists too! 
 
 Pardon my formatting, I'm still new to this. Do tell me if there are any other emails I should include (or remove because they don't want their emails to be flooded) and thanks for reading this!
 TFYC: AfterLife Empire Update
@@ -1193,18 +1193,18 @@ I was thinking about the Gawker Media take down and was wondering. Are we only f
 
 Because Gawker is still getting funds from their other subsidiaries like:
  
-* Deadspin – Sports
-* Screamer – Deadspin's soccer hub
-* The Concourse – Music, food, sports-related pop culture
-* Valleywag – San Francisco, Silicon Valley and tech gossip
-* Gizmodo – Gadget and technology lifestyle
-* Sploid – News, futuristic ideas and tech
-* Indefinitely Wild – Adventure Travel in the Outdoors with Wiley
-* io9 – Science/Science Fiction
-* Jalopnik – Cars and automotive culture
-* Truck Yeah! – Trucks and truck culture
-* Jezebel – Celebrity, Sex, Fashion for women
-* Lifehacker – Productivity tips
+ Deadspin – Sports
+ Screamer – Deadspin's soccer hub
+ The Concourse – Music, food, sports-related pop culture
+ Valleywag – San Francisco, Silicon Valley and tech gossip
+ Gizmodo – Gadget and technology lifestyle
+ Sploid – News, futuristic ideas and tech
+ Indefinitely Wild – Adventure Travel in the Outdoors with Wiley
+ io9 – Science/Science Fiction
+ Jalopnik – Cars and automotive culture
+ Truck Yeah! – Trucks and truck culture
+ Jezebel – Celebrity, Sex, Fashion for women
+ Lifehacker – Productivity tips
 
 Maybe we should also be scanning these sites and writing their advertisers. Just wondering what others think.
 Jezebel is just as trashy as the original Gawker, they absolutely should go--these are the same folks who think that domestic violence is hilarious and empowering (if done against men, of course), that all gay men are inherently misogynistic, and that men can't get breast cancer.
@@ -1245,7 +1245,7 @@ I am a feminist. I am a supporter of women's liberation. Millions of women aroun
 
 The people attacking GamerGate aren't feminists. They don't believe women are equal. They believe they're too frail to withstand criticism (even though plenty of women have gamed since before they all got up in arms and I never heard any of the women I gamed with complain that the gamer-talk was too harsh for them to handle). They believe women need protection by men, and that they cannot live or stand up for themselves, evidenced by the many men demanding people donate to the patreons of "harrassed" woman developers/journalists. 
 
-They believe that women do not deserve agency, as evidenced by their reaction to #NotYourShield. Women are either not deserving of a voice, because they don't hold the views that a woman **should** have in their minds. Or, these women are too stupid to formulate their own opinions, must be brainwashed, and therefore must be educated by the largely **male** journalists and "SJWs" (how I loathe the term). They aren't fighting for social justice. They're telling women how they should think, that they are too stupid to think for themselves, and don't deserve to have their opinions heard if they aren't the **right** opinions for a woman to have. 
+They believe that women do not deserve agency, as evidenced by their reaction to #NotYourShield. Women are either not deserving of a voice, because they don't hold the views that a woman should have in their minds. Or, these women are too stupid to formulate their own opinions, must be brainwashed, and therefore must be educated by the largely male journalists and "SJWs" (how I loathe the term). They aren't fighting for social justice. They're telling women how they should think, that they are too stupid to think for themselves, and don't deserve to have their opinions heard if they aren't the right opinions for a woman to have. 
 
 The people who are GamerGate is targeting are in the majority men, white, and upper class, working in journalism or software development. These are not feminists. These are not SJWs. These are sexists. Unless a woman agrees with them, she doesn't deserve to be heard or thought of as an equal.
 
@@ -1256,31 +1256,31 @@ GamerGate is a battle of feminism vs. sexism. It's just most of the feminists ar
 (Also, while I'm at it, can we address how the most racist/vitriolic comments regarding "uncle toms" has come from the anti-GamerGate crowd trying to denounce #NotYourShield and all of the dismissing/minimizing of awful tragedies have come from the anti-GamerGate crowd regarding the Holocaust, KKK, and ISIS? GamerGate is also a battle of racists vs. non-racists. But most of the racists are on the anti-GamerGate side.)
 
 Edit: I've seen a lot of comments saying that men and women are paid the same but without sources. Could someone please provide one next time they make the comment? I would like to educate myself. I'll remove it for the time being, until I can do more research myself. I hope the message is more palatable to you, now.
-[Legitimate Question] What do we make of the #Waronnerds issue?
-Recently, [a generally favorable article] on the Daily Caller was posted on GamerGate, one which has apparently (and please correct if I'm wrong) been the source of the tag #Waronnerds. Though not exactly very nuanced and with a dash of a politically charged "right vs left" angle, it's been retweeted by Adam Baldwin on Twitter.
+Legitimate Question What do we make of the #Waronnerds issue?
+Recently, a generally favorable article on the Daily Caller was posted on GamerGate, one which has apparently (and please correct if I'm wrong) been the source of the tag #Waronnerds. Though not exactly very nuanced and with a dash of a politically charged "right vs left" angle, it's been retweeted by Adam Baldwin on Twitter.
 
-...[And some aren't happy] [to say the least]. Among the reasons is that the article in question allegedly equates GamerGate to the stabbing of two girls by a mentally unhinged man (via a Daily Mail link) and Elliot Rogers. Thus we shouldn't even entertain the author for using such questionable comparisons. There are also concerns that GG is being co-opted into a politically partisan angle.
+...And some aren't happy to say the least. Among the reasons is that the article in question allegedly equates GamerGate to the stabbing of two girls by a mentally unhinged man (via a Daily Mail link) and Elliot Rogers. Thus we shouldn't even entertain the author for using such questionable comparisons. There are also concerns that GG is being co-opted into a politically partisan angle.
 
 Personally, I don't really see the moral equivalency being made between the stabbings and GG in the article, though I do think it attempts to paint GG in a more politically partisan manner (though you're very much welcome to prove otherwise). In fact, I think the article, despite the Daily Fail link, does have valid points. And yet, I remain rather torn.
 
-Just *what* do we make of #Waronnerds?
-He wasn't equating anything. It was simply a statement that if you fuck with someone enough they'll retaliate. Sometimes violently if they are aggrieved enough and in the wrong disposition. The violence doesn't describe us and it was never claimed to. Fact is, GG (the event) is messy and it *is* largely driven by a hatred of nerdy cultures whether it's gamer culture, channer culture, or what have you.
+Just what do we make of #Waronnerds?
+He wasn't equating anything. It was simply a statement that if you fuck with someone enough they'll retaliate. Sometimes violently if they are aggrieved enough and in the wrong disposition. The violence doesn't describe us and it was never claimed to. Fact is, GG (the event) is messy and it is largely driven by a hatred of nerdy cultures whether it's gamer culture, channer culture, or what have you.
 
 If conservatives are the only ones who will shed a positive light on our cause, then we don't really have a choice in the matter. We certainly aren't getting a fair shake from the left. It's better to have half the country that you don't normally align with on your side than it is to have no one on your side even if it's just a temporary alliance of born of mutual usefulness.
 
 I don't tweet under hash tags... and I don't intend to start now, but if #waronnerds can be a separate thing split off from GG it's probably a good thing over all. I'm not saying any of us should take up the mantle, but the more public all this shit (media corruption and cultural control in general) goes, the better. The dirty politics need to be exposed and I don't care at this point who exposes them.
-&gt; It was simply a statement that if you fuck with someone enough they'll retaliate.
+ It was simply a statement that if you fuck with someone enough they'll retaliate.
 
 i didn't understand it that way either, i thought it was an example for how the deeds of one disturbed person with clearly misogynistic tendencies was used as an example how nerds are by the opposition. 
 
 something like: nerds are gross misogynists, look at elliot rodgers
 From Article
 
-&gt;Those girls didn’t just suffer for their own sins, but the sins of every bully who came before them.
+Those girls didn’t just suffer for their own sins, but the sins of every bully who came before them.
 
 This part reads to me that gamergate was brewing for a long time.
 
-&gt;i thought it was an example for how the deeds of one disturbed person with clearly misogynistic tendencies was used as an example how nerds are by the opposition.
+i thought it was an example for how the deeds of one disturbed person with clearly misogynistic tendencies was used as an example how nerds are by the opposition.
 
 I don't get how you concluded that was misognynistic. The guy was disturbed for sure.
 
@@ -1289,20 +1289,20 @@ well he wrote he hated the girls for always choosing those "dumb popular" guys, 
 
 we can argue if he was doing it for misogynist reasons, but he clearly made misogynist comments in his manifesto
 
-**edit:** just checked your first quote again, that's talking about another guy, i was talking about elliot rodgers not ryan walker, sorry for the confusion
+edit: just checked your first quote again, that's talking about another guy, i was talking about elliot rodgers not ryan walker, sorry for the confusion
 I skimped through his manifesto, guy was a misanthrope more than misogynist. 
 He really hated everything that he finds of value, because he couldn't have it.
 
 People are reading too much into a metaphor.
 
-It was merely saying everyone, *everyone*, has a breaking point. Not everyone actually encounters it, but those that do, the results can be downright explosive.
+It was merely saying everyone, everyone, has a breaking point. Not everyone actually encounters it, but those that do, the results can be downright explosive.
 
 For Walker, he violently outbursted and injured two girls who were part of a system of torment for him.
 
 For Gamergate, it sparked a revolt that has been going on for three months, and shows little sign of slowing, despite people claiming otherwise.
 
 That literally is all that comparison does.
-That's my initial thought as well. Still, the author could have chosen better examples rather than the...*questionable* ones used.
+That's my initial thought as well. Still, the author could have chosen better examples rather than the...questionable ones used.
 
 Still, a great strength of GG is that we can discuss this openly and more or less civilly. 
 Perhaps there might have been other examples. But there are many parallels between Walkers story and Gamergate.
@@ -1311,7 +1311,7 @@ Plus, it signal boosts a story with issues that NEED to be discussed before more
 
 Having experienced even a sampling of what Walker must have, I feel confident in saying that little has changed since the 14 years that I've been out of public schools.
 
-&gt; Still, a great strength of GG is that we can discuss this openly and more or less civilly.
+ Still, a great strength of GG is that we can discuss this openly and more or less civilly.
 
 True dat. And it's that open and civil discussion that has won over many supporters. Seen so many lurker posts, and even the odd anti post saying they've gone pro (or at least neutral) in recent days. Refreshing to see (and I upvote every one of those threads)
 Point taken on all counts. At least though, we're open to change and understanding. Compared to certain subreddits and sites where one would be banned on site or declared a persona non grata for disagreeing.
@@ -1321,7 +1321,7 @@ The author still got it totally wrong when he painted Silicon Valley as a New Je
 The world of hip tech startups is looked upon with mighty skepticism and people don't trust the internet overlords. Being introverted and having deep interests has nothing to do with being socially awkward, nevermind white or male.
 
 Well, you do have a valid point there. Though it doesn't help that Silicon Valley is just a relatively short drive away from that hub for hipster-activists and so-called SJWs (the locals of which have their own beef with): San Francisco.
-Tech has been invaded by SJWs, the conferences now have hair-trigger anti-harassment policies. There's been -Gates, it's gotten XOXOy in some places for sure. But that has nothing to do with the wider population of *gamers*. There are techies who don't game and gamers who don't know tech.
+Tech has been invaded by SJWs, the conferences now have hair-trigger anti-harassment policies. There's been -Gates, it's gotten XOXOy in some places for sure. But that has nothing to do with the wider population of gamers. There are techies who don't game and gamers who don't know tech.
 
 The problem with the gamer stereotype is that it's schizophrenic. They're both misogynist white dudebros, and awkward white neckbeards with mushroom hats. The article doesn't support the first, but repeats the latter, and I think a lot of people are glossing over that because the rest of it is pretty good.
 
@@ -1330,7 +1330,7 @@ I had no idea of the opening statement and its connotations. I thought it was pr
 
 I wouldn't say that he used it blindly, but I agree on /u/DeeDoubs that:
 
-&gt;It was simply a statement that if you fuck with someone enough they'll retaliate. Sometimes violently if they are aggrieved enough and in the wrong disposition.
+It was simply a statement that if you fuck with someone enough they'll retaliate. Sometimes violently if they are aggrieved enough and in the wrong disposition.
 
 this was his intention for the opener. It, in general, doesn't matter if the person was killed, or someone was killed on another day; push a person far enough, and they are likely to break. Kid might have had problems before, for all I know.
 Agreed. Everyone has their own breaking point. 
@@ -1338,7 +1338,7 @@ The #WarOnNerds is inseperable from Gamergate itself.
 
 Every single one of Gamergate's opponents have viciously insulted gaming by deploying nerd stereotypes. Read anything by Leigh Alexander - she's been using the same stereotypes to mock and pathologize gamer culture for literally years.
 
-The fact is that SJW invasions follow a pattern; parts of "nerd" culture (or things seen to be nerdy) have been invaded one by one. Comics, Speculative Fiction, Tabletop gaming, Atheism (which Rebecca Watson explicitly described as a "land of the nerds" in an article for eSkeptic) and Video Games. Every single time they invade they basically go on about how *terrible it is* that the subculture is full of socially-awkward men who don't groom or dress properly (i.e. in a way that they find acceptable). 
+The fact is that SJW invasions follow a pattern; parts of "nerd" culture (or things seen to be nerdy) have been invaded one by one. Comics, Speculative Fiction, Tabletop gaming, Atheism (which Rebecca Watson explicitly described as a "land of the nerds" in an article for eSkeptic) and Video Games. Every single time they invade they basically go on about how terrible it is that the subculture is full of socially-awkward men who don't groom or dress properly (i.e. in a way that they find acceptable). 
 
 GamerGate is one of several battles in a larger war. 
 I'd drop it. There's a lot of stuff to go into detail, but it's not worth it. 
@@ -1348,11 +1348,11 @@ It is probably part of what caused the built up resentment that sparked GamerGat
 A lot of people in GG probably relate, but not all.
 When I think about it, it seems like the \#waronnerds article is a perfect psychological weapon against nerds. It's designed exactly around our typical blind spots.
 
-Here is how a nerd will perceive it: "The story *technically* makes sense, I am okay with it."
+Here is how a nerd will perceive it: "The story technically makes sense, I am okay with it."
 
 Here is how everyone else will perceive it: "Stabbing girls??? Horrible!!! So, is this the shit those nerds support? We need to stop them!"
 
-In a media battle, it is not enough to think whether something *technically* makes sense. The media war is all about *associations*. If the opponent makes you associated with something negative, they win. The average person will not care about anything else. So you will be happy to be *technically* correct when everyone else is wrong... and then you will be surprised why everyone unfriends you on social networks, and why your boss fires you.
+In a media battle, it is not enough to think whether something technically makes sense. The media war is all about associations. If the opponent makes you associated with something negative, they win. The average person will not care about anything else. So you will be happy to be technically correct when everyone else is wrong... and then you will be surprised why everyone unfriends you on social networks, and why your boss fires you.
 
 Yeah, it shouldn't be like this. But it is. Associating this with yourself is a losing move. The media already associated us with a lot of shit... and the only good part is that it also starts getting boring. People can read "evil gamergaters oppress LW" only so many times until they get tired. So they need to associate us with some fresh shit to make readers interested again... and well, this is it. Don't cooperate.
 I make nothing of it. I don't know what \#warOnNerds is but use nerdCaps please.
@@ -1420,12 +1420,12 @@ A similar thing is the praise IGN seems to be getting here because they don't pu
 
 
 When presented with a choice between sex with a dev and sex with a hooker paid for by a dev, a journalist should choose neither. Kain seems focused on the latter while KIA/8chan is more focused on the former and it just leads to praise for what each side views as the lesser evil when we shouldn't be praising either evil.
-&gt; When presented with a choice between sex with a dev and sex with a hooker paid for by a dev, a journalist should choose neither. Kain seems focused on the latter while KIA/8chan is more focused on the former and it just leads to praise for what each side views as the lesser evil when we shouldn't be praising either evil.
+ When presented with a choice between sex with a dev and sex with a hooker paid for by a dev, a journalist should choose neither. Kain seems focused on the latter while KIA/8chan is more focused on the former and it just leads to praise for what each side views as the lesser evil when we shouldn't be praising either evil.
 
 I think you pretty hilariously summarized a major dividing line for most gamers and their opinion on gamergate.
 
 I'm firmly in the latter camp; sex with a dev is bad but nothing to worry about too much, sex paid for by the dev is the ultimate evil.   I don't really care that some guy slept with some no name random dev who no one knows or cares about.  This shit happens all the time in every form of business and journalism.  No one cares, no one gets fired for it, no one goes to jail for it.    But taking bribes, kickbacks, donations, free services, etc, is actually illegal in most instances and at best you get insta fired.
-&gt; I'm firmly in the latter camp; sex with a dev is bad but nothing to worry about too much, sex paid for by the dev is the ultimate evil.
+ I'm firmly in the latter camp; sex with a dev is bad but nothing to worry about too much, sex paid for by the dev is the ultimate evil.
 
 I see it simply as one side having more money than the other one.
 
@@ -1442,7 +1442,7 @@ I'm far more worried that Walmart, Best buy, and Gamestop colluded Sony and Micr
 Do you want credit or do you want results?
 Sucking up to Totilo isn't "results." 
 Kain is a professional doing his job. He's not a pundit for us.
-&gt;He's not a pundit for us.
+He's not a pundit for us.
 
 We knew that from the very first article he wrote about GG.
 Yeah.  Kotaku claiming that they are going to "change", while still maintaining the party line about gamergate isn't the sort of change I'm interested in.  Makes it clear that it's PR, meant to pacify people.  Which is all I expect from them.  
@@ -1451,7 +1451,7 @@ I wonder if it would do any good to write to the people who do these news aggreg
 Helping kotaku look good isn't results, we are here to burn them down not to make them look good.
 Exactly. We're at the stage now where the bully is scared and pretending to play nice. Not falling for it. Not turning my back.
 That's exactly it. People don't be fooled.
-*Youre here to burn them down. Youre entitled to that view. But dont act like its everyones view because it isnt.
+Youre here to burn them down. Youre entitled to that view. But dont act like its everyones view because it isnt.
 Err yeah I think we pretty much are here to kill kotaku. I think I can speak for "most" people.
 
 Other websites you can talk about saving but hell this subreddit is named after kotaku...they represent the worst.
@@ -1469,7 +1469,7 @@ I'd appreciate acknowledgement that they perpetuated a one-sided narrative by ig
 Otherwise yes, I think this is a bit disingenuous on Totilo's part. (note: haven't read the kain article yet, not commenting on that)
 great read. him and aurebach deserve a lot of credit when it comes to examining gaming press
 You can slowly see things starting to change for the better and he's a big part of the reason why.
-&gt;change for the better
+change for the better
 
 Keep contacting advertisers and starve the corrupt websites. That's how we change things. We don't rely on some guy at Forbes.
 Jesus christ you're an idiot . . .
@@ -1478,7 +1478,7 @@ To be fair it's his opinion on it and while I disagree with Totilo on a lot of t
 
 
 So, what's the line between hype and reporting?  To use his example, a new Mass Effect trailer would be news and not just hype.
-&gt;So Kotaku did something very interesting and admirable recently...
+So Kotaku did something very interesting and admirable recently...
 
 Gawker is rotten to the core. Nothing is going to rehabilitate that slime pit.
 Doritos and Mountain Dew are placed on that endcap at Target because PepsiCo pays for them to be put there. Not sure Kain realizes that. Companies like Pepsi even will deliver product and stock the shelves in stores to be sure they get what they paid for.
@@ -1504,10 +1504,10 @@ That's fucking retarded, there was no activism to speak of in the "gaming press"
 Most people don't give a flying fuck about your world view or personal politics and you are going against the readers/customers express wishes, against the very market you are reporting on. 33 million bought GTA V and there weren't any complaints from the player base, 250k at the most bought "Gone Home" despite the gaming press trying their utmost to push it as hard as they could, how the fuck do they think this is going to continue forward if they try to pander and tailor their content to a minor niche audience and push their views across most publications (while colluding with one another) on to other people against their will? How do they not see the conflict and explosive mixture there?
 
 Also, what?
-&gt;“Good ethics are, of course, not a perfect predictor of good journalism and therefore even the most righteous of games press might find themselves running what our publisher calls “fake news.”"
+“Good ethics are, of course, not a perfect predictor of good journalism and therefore even the most righteous of games press might find themselves running what our publisher calls “fake news.”"
 I never understood this point of view. How is the hobby of video games, an industry making more money than the film industry, so full of idiot consumers?
 
-I mean, you think *The Avengers* or *Guardians of the Galaxy* flopped, we'd be seeing fucking *Ant-Man*? No! Because, for some reason, folk that go to films aren't as stupid as gamers. GTA, Tomb Raider, CoD, etc., these franchises are not still around because they suck. There are no franchises that suck! It is working as intended!
+I mean, you think The Avengers or Guardians of the Galaxy flopped, we'd be seeing fucking Ant-Man? No! Because, for some reason, folk that go to films aren't as stupid as gamers. GTA, Tomb Raider, CoD, etc., these franchises are not still around because they suck. There are no franchises that suck! It is working as intended!
 
 So, why doesn't it work? I don't get it. A week before review or not, a game sucks, it should dive. Film studios often make films for the international market. They know "opening weekend" isn't their real cash cow. Why, in 2014, can the video game industry still be allowed to be so naive as to not be beholden to real, real world economics? Why are they "special snowflakes"?
 
@@ -1515,15 +1515,15 @@ They make more than film on a scam. Film tried scams. Back in the day. It did al
 
 It grew up.
 
-Everyone now knows *Unity* was released as suckballs. But the whole system banks on them still buying the next AC. And they will.
+Everyone now knows Unity was released as suckballs. But the whole system banks on them still buying the next AC. And they will.
 
 Fucking fuck, they will. It's their fault! They can't say no. Folk don't go to shitty films, but gamers throw their money at shit. They eat a bowl of shit, all the while saying it's shit, but they never think to put the bowl down! I have no sympathy for that.
 
-*Unity* made fun of you. But by their next publication, all will be forgotten. The studio "learned its lesson".
+Unity made fun of you. But by their next publication, all will be forgotten. The studio "learned its lesson".
 
 Fool me twice, motherfucker, fool me twice.
 Adam Sandler
-&gt;  Folk don't go to shitty films, but gamers throw their money at shit. 
+  Folk don't go to shitty films, but gamers throw their money at shit. 
 
 First of all, Transformers and TMNT contradict your entire point here :)
 
@@ -1548,29 +1548,29 @@ The current GG written article:
 Advice on writing neutrally:
 
 Weighing In
-**Who I am... ish**
+Who I am... ish
 
-I've been lurking for a while now, watching events develop listening in on TB and Sargon and many of the posts on this page due to an associate of mine who brought GG to my attention. I'm thinking the tactics GG is using (specifically [the idea of friggin building the community we desire]) are on the whole exactly what gaming needs. I also think understanding the position of the opponents to the GG movement is essential, first to learn of and expose bias and corruption but also to improve the GG platform as a whole.
+I've been lurking for a while now, watching events develop listening in on TB and Sargon and many of the posts on this page due to an associate of mine who brought GG to my attention. I'm thinking the tactics GG is using (specifically the idea of friggin building the community we desire) are on the whole exactly what gaming needs. I also think understanding the position of the opponents to the GG movement is essential, first to learn of and expose bias and corruption but also to improve the GG platform as a whole.
 
-**What I've seen**
+What I've seen
 
 The Gaming industry leaves much to be desired. Seriously, look at the ritual repetition of titles we get year in year out, each panned as the next big thing yet delivering nothing but the same (or in the case of AC:U, less) experience as the last. There's two problems with this picture: The dishonesty of advertising "Generic Sequel 5: Revolvulations" as the best game evar on behalf of big D development, and the lack of innovation and diversification these iterative productions present. (If you're seeing where I'm going with this, please don't spoil it for the rest of us because I'm pantsing the hell outa this post).
 
-My point is this: GG is focused on eliminating the corruption. Moderates within the opposition want to improve the diversity of content within the games. We need to drive home the point that **Developers and the development process needs to improve if this mess is ever going to be resolved**. It's what both sides (theoretically) want.
+My point is this: GG is focused on eliminating the corruption. Moderates within the opposition want to improve the diversity of content within the games. We need to drive home the point that Developers and the development process needs to improve if this mess is ever going to be resolved. It's what both sides (theoretically) want.
 
-**What I've learned**
+What I've learned
 
 Before learning about Gamergate I was under the impression that Anita Sarkeesian's videos were little more than weaponized TVTropes, not to be taken too seriously. I played into the media's hand on the Zoe Quinn situation as well (Curse you cracked.com and my insatiable love of dick jokes! Your article didn't give the full picture!). As such I posted a relatively misguided CMV a while back meant to spark conversation and better understand this situation. Not gonna link to that, because that's the old krymsonkyng and my view was changed.
 
 Neither side's purported agenda is necessarily at odds (with the exception of the petty squabbling and posturing the media loves to highlight). We need to start working inclusion into the discussion in order to strengthen the movement and instigate true change within the industry. We want journalistic ethics reform as well as new and interesting and diverse game experiences.
 
-**What I want**
+What I want
 
 I want another Mass Effect 2. In my mind, they hit all the right buttons with that bad boy. The characters were unique and interesting and the story was new and exciting and built entirely around getting diverse characters (sexually, racially, morally diverse) to work together to save the universe. To my recollection, the advertising campaigns highlighted a specific aspect of the game as a whole: Even if you "beat" the game, you were on a suicide mission with no guarantee that you or your crew would make it out alive. They drove that point home at every turn, and it was accurate (or at least more accurate than 3's campaign amirite?).
 
 The good news is, I'm seeing the sort of inclusive discussions that will produce more ME2s all over the GG spread. Mr. T. Biscuit esq.'s interview with Rhianna Pratchett for example. That's the sort of dialogue we need to foster and promote.
 
-**Other topics I'd like to talk about**
+Other topics I'd like to talk about
 
 Is the gaming community what you would call a sub-culture or a loose conglomeration of gaming enthusiasts? It's a dead horse for most, but I'm still interested in the topic because... well it's 1:30 ish and I've got work in 5ish hours.
 
@@ -1578,15 +1578,15 @@ What positive examples of genuinely well crafted characters have you found in ga
 
 Mechanics as metaphor: Examples, research, anything pertaining to this topic really. I need help. I started out this evening working on an academic paper and got wrapped up in Sargon's latest stream. Had to post something to pretend I'd shirked my homework/screwed up my sleep schedule for a good cause.
 
-**TL;DR** What can we as a community do to present a more inclusive atmosphere? Let's start converting more folks than all the Age of Empires priests the world has ever known. Acknowledge the desires of both parties and redirect both discussions towards the chief offender: The industrial construct known as Video Game production. We want reform there, and in the media. They purportedly want reform there too. Let's hogtie these two monsters together and send them hurtling into the foe.
+TL;DR What can we as a community do to present a more inclusive atmosphere? Let's start converting more folks than all the Age of Empires priests the world has ever known. Acknowledge the desires of both parties and redirect both discussions towards the chief offender: The industrial construct known as Video Game production. We want reform there, and in the media. They purportedly want reform there too. Let's hogtie these two monsters together and send them hurtling into the foe.
 
-*TL;DR:tl;dr* You end a cult by changing the minds of its members using logic and evidence, while acknowledging the desires that led to the cults existence and learning from them. Keep up the good work GG. Some minds won't/can't be changed, and Jim Jones would say that's fine.
+TL;DR:tl;dr You end a cult by changing the minds of its members using logic and evidence, while acknowledging the desires that led to the cults existence and learning from them. Keep up the good work GG. Some minds won't/can't be changed, and Jim Jones would say that's fine.
 Charity Drive - Gaming for Good
-**Gaming For Good**
+Gaming For Good
 
 
 
-So many of you will have heard of Bachir Boumaaza or as he's more commonly known 'Athene'. He and a group of friends host a site where gamers can donate to [Save The Children]. 
+So many of you will have heard of Bachir Boumaaza or as he's more commonly known 'Athene'. He and a group of friends host a site where gamers can donate to Save The Children. 
 
 I've been supporting these guys for a while and as they've almost reached their goal for this year it would be cool for the people of #GamerGate to give them that final push before Christmas.
 
@@ -1595,8 +1595,8 @@ I've been supporting these guys for a while and as they've almost reached their 
 
 If you want to get vocal about it then I would tweet at
 
-* [@reese015]
-* [@AtheneLOL]
+ @reese015
+ @AtheneLOL
 
 and let them know that you're supporting Save the Children through GamingForGood with #GamerGate.
 
@@ -1607,16 +1607,16 @@ Key post no.1
 
 First come, first served.
 
-    Little Inferno [STEAM]
+    Little Inferno STEAM
         B25LC-XRC69-3N5C4
 
-    Unepic [STEAM]
+    Unepic STEAM
         C492I-TLCQY-EDD23
 
-    Metro: Last Light [STEAM]
+    Metro: Last Light STEAM
         INQ6Z-3B22P-C2C88
 
-    Trine [STEAM]
+    Trine STEAM
         VB8NW-K2BWI-HPLBR
 Thanks for little inferno :)
 Mary Sue runs with unverified Intel ad story
@@ -1667,8 +1667,8 @@ It's a tiny, irrelevant subreddit, and that thread is frankly very hard to under
 
 You're right that the quotes aren't misogynistic, but that OP doesn't represent the whole opposition (they were less hateful sounding).
 An Email a day...
-Have you sent yours today? Just a friendly reminder of the most recent BGotD target, [Amazon]. If you've a Prime subscription in particular, this is your ballpark.
-&gt;an email a day
+Have you sent yours today? Just a friendly reminder of the most recent BGotD target, Amazon. If you've a Prime subscription in particular, this is your ballpark.
+an email a day
 
 Keeps the game journo ads away? 
 .. keeps Gawker at bay?
@@ -1687,7 +1687,7 @@ This is what we need to remain focused on.
 
 There are 20,000 of us here. If each of us wrote a letter a day or even a letter a week our opposition would be broke.
 
-It doesn't matter who says what or what articles get written. It doesn't matter who wins on wikipedia or what people say on twitter. It doesn't matter if we never gain another supporter. If just the people here on KiA exercise their power as consumers we *will* get what we want eventually. 
+It doesn't matter who says what or what articles get written. It doesn't matter who wins on wikipedia or what people say on twitter. It doesn't matter if we never gain another supporter. If just the people here on KiA exercise their power as consumers we will get what we want eventually. 
 
 That's the leg up we have up on the usual boycotters, we aren't an outside group. We are the audience. They need our money and the money of those trying to reach us. All we have to do is deprive them of that over the long-term.
 ... keeps the Mcintosh away.
@@ -1718,7 +1718,7 @@ She didn't kick his ass, she didn't shoot him or use any racial epitaphs during 
 And the author was annihilating this woman and saying something at the end to the effect of "if some black kid steals your shit and you're a privileged white person, just let them go."
 
 Sorry dude, progressive movie plot devices don't work in real life, someone swipes your shit, unless they have a weapon or can run faster than you, you get your shit back. 
-&gt;just let them go
+just let them go
 
 Is this real?
 Enjoy.
@@ -1752,15 +1752,15 @@ What kind of (ir)rational thought is that? Because they're not privileged, they 
 Unsurprisingly, some of the people opposed to gamergate seem to have convinced themselves that they're oppressed and unprivileged and lo and behold, they seem to think it's ok to break the rules.
 
 I don't care how privileged you are or not, societal rules are not a game and i'll call you out for invading other people's privacy if you're the hotel cleaning lady or the queen of England alike.
-&gt; What kind of (ir)rational thought is that? Because they're not privileged, they can break rules?
-&gt; 
-&gt; 
-&gt; 
-&gt; Unsurprisingly, some of the people opposed to gamergate seem to have convinced themselves that they're oppressed and unprivileged and lo and behold, they seem to think it's ok to break the rules.
-&gt; 
-&gt; 
-&gt; 
-&gt; I don't care how privileged you are or not, societal rules are not a game and i'll call you out for invading other people's privacy if you're the hotel cleaning lady or the queen of England alike.
+ What kind of (ir)rational thought is that? Because they're not privileged, they can break rules?
+ 
+ 
+ 
+ Unsurprisingly, some of the people opposed to gamergate seem to have convinced themselves that they're oppressed and unprivileged and lo and behold, they seem to think it's ok to break the rules.
+ 
+ 
+ 
+ I don't care how privileged you are or not, societal rules are not a game and i'll call you out for invading other people's privacy if you're the hotel cleaning lady or the queen of England alike.
 
 It's not just some of them, it's in the actual cult handbooks you have to understand.
 
@@ -1770,7 +1770,7 @@ Also if you're not doing things that make the patriarchy and privileged uncomfor
 
 This is exactly what bothered me about this article.
 By that logic when I worked in a kitchen I could rub my hands on people's food and rifle through bags that got left behind. Who cares, right? It's not like I'll spit in their food or take anything.
-I think the major problem with this article isn't the GG comparison it's that he **ENABLES A MAID SNOOPING THROUGH YOUR STUFF**.
+I think the major problem with this article isn't the GG comparison it's that he ENABLES A MAID SNOOPING THROUGH YOUR STUFF.
 I shouldn't have read that. It was disturbingly stupid
 This isn't the first time I've seen the "this is about ethics in X" or some variation, I assume this is what passes for humour amongst them. It's pretty sad but at least if you see it you know you can stop reading and miss nothing.
 I've been seeing this for years. Treat something as a joke to delegitimize it. It also closes off criticism.
@@ -1779,15 +1779,15 @@ The thing is, a couple of the things she did weren't wrong/unethical at all. Loo
 Yeah, there's definitely a line there. I mean, if you're using a maid service you give up some expectation of privacy - anything in plain view is fair game. Not sure how anyone can justify her trying to access his electronic devices though. I mean it's not the worst thing in the world, but that should definitely be grounds for disciplinary action.
 Forgive them of their transgressions for they lack privilege, so sayeth the great privilege Goddess.
 I'm weary of harping on about gender bias, but I can't help wondering if the article would have been different if it was a male housekeeper rifling through a womans underwear.
-It has gotten to the point where Poe's Law is no longer applicable.  After a critical mass of dissonance, it's "just a joke" anyway. So now all this shit supersedes Poe's Law. It's a Schrodinger's Poe's Law: it's both a joke and not *at the same time*, depending on when and how you look at it.
+It has gotten to the point where Poe's Law is no longer applicable.  After a critical mass of dissonance, it's "just a joke" anyway. So now all this shit supersedes Poe's Law. It's a Schrodinger's Poe's Law: it's both a joke and not at the same time, depending on when and how you look at it.
 
-*And*, it's also corrupted by some bizarro world reverse Poe's Law (henceforth known as Hubbard's Law), where the lot of 'em are handicapped by the circlejerk: "What, Xenu? Ah, shit, that sounds *so* legit!" They do not know what they are spewing is satire for the same reasons your fifth grader thinks sex is peeing in a woman because his "friend" told him. The biggest flaw of the internet is that fifth graders get a voice.
+And, it's also corrupted by some bizarro world reverse Poe's Law (henceforth known as Hubbard's Law), where the lot of 'em are handicapped by the circlejerk: "What, Xenu? Ah, shit, that sounds so legit!" They do not know what they are spewing is satire for the same reasons your fifth grader thinks sex is peeing in a woman because his "friend" told him. The biggest flaw of the internet is that fifth graders get a voice.
 
 "Never attribute to malice that which is adequately explained by stupidity." -Robert J. Hanlon
 Those are some gold medal winning mental gymnastics.
 They want hits and writing the word gamergate gives it to them. that's pretty much it.
 
-Their views are [dipping] 
+Their views are dipping 
 Are they? The thing you posted suggests they're actually at a year-high.
 I'm gonna go out on a limb and say it peaked from the Cat calling shit. 
 I mean, at some point you have to see them for what they are: clickbait masters. They just leap at any opportunity to pander to their demographic, which, according to the Alexa link, is 80% female. That's how they make all that money. They aggregate all the objectionable stuff in the world and make it about women being victims ie. this article.
@@ -1801,7 +1801,7 @@ She tried to use his tablet?!  Looking at a game collection is one thing, trying
 Ps. I do tip the fucking maid.
 Just wait till someone tries to justify their breaking and entering with "it was for emotional/mental relief."
 
-&gt;all men are gross
+all men are gross
 
 This quote, comrades. Completely necessary, and heavily bolsters professional image.
 More motivation to keep sending the emails.
@@ -1818,7 +1818,7 @@ I totally buy that maids would get bored. Cleaning identical rooms over and over
 Or just play some music on your phone. Put in headphones. Tada!
 The real danger of that fake sexual assault video is #gamergate's reaction to it (lol? TW: Slate)
 
-[Humor] If you want strong women in gaming, don't treat them like they're not strong in real life.
+Humor If you want strong women in gaming, don't treat them like they're not strong in real life.
 
 #GamerGate: Right &amp; Wrong | The Game Anthropologist - Opinion Piece
 
@@ -1841,14 +1841,14 @@ My main account got suspended for "non violent threat".
 
 Anything that challenges a special snowflake's myopic worldview is a "threat".
 They don't abuse WAM, WAM abuse their power.
-And this is precisely why Twitter needs to come out and actively describe what is and is not a violation of its TOS.  Third party entities should **not** have the authority to jump the queue.
+And this is precisely why Twitter needs to come out and actively describe what is and is not a violation of its TOS.  Third party entities should not have the authority to jump the queue.
 
 And most importantly, false reports which lead to suspensions in error need to have action taken against the harasser's account.
 I would venture that it means threats of legal action. IANAL but I have heard advice not to idly threaten to sue someone unless you're ready to actually do it. 
 
 I first heard of it on stock photo sites, when artists find their work used without payment, they need to be careful not to threaten legal action unless they really are about to sue. 
 I bet its the aplogise or I will sue you episode.
-&gt; Does this mean Twitter discriminates against SWOLE !?!?
+ Does this mean Twitter discriminates against SWOLE !?!?
 
 San Francisco, do you even lift?
 Facts, definitely facts.  And Math. 
@@ -1862,7 +1862,7 @@ Also, Nacho is another contributor to the project. He'll be helping me out (sinc
 EDIT: Okay, I'm out for a bit since I've been up for 24 hours. Continue to post your questions though, I promise I'll get to them as soon as I regain consciousness.
 Will the dossier be sent in physical form to news outlets, and if so how many?
 
-Also, to you and everyone who worked on it, [well done].
+Also, to you and everyone who worked on it, well done.
 We talked about it, but found it was rather expensive. A kind anon did offer to do it for us, but we decided to save it as a last option kind of thing in case we felt some outlets may have missed the email we sent.
 I see, I only worry that it'll be far too easy for an email to be missed/ignored over a physical copy of the document.
 
@@ -1898,7 +1898,7 @@ This is bad form. It is akin to taking commentary from the satirical monologue a
 
 We need documented facts, like emails and statements with folks going on the record. Lets not do this smearing out of context BS.   
 /u/RaineyJ Absolutely, if this dossier is going to be treated highly like this, we need to remove any "maybes" and "citation needed"s.
-&gt;Personally I think the dossier frames it rather neutrally but it could be seen as suggesting "she says it's a joke but we don't believe her".
+Personally I think the dossier frames it rather neutrally but it could be seen as suggesting "she says it's a joke but we don't believe her".
 
 That's how it read to me as well, and I sent in an email to pr@ about it. (I'd have used the suggestion form but the JS keeps eating the message body; fix your JS.)
 Why can't you make the point about scores and bonuses without sourcing a known liar and dragging one of our moderate voices through his personal attacks YET AGAIN?
@@ -1911,7 +1911,7 @@ The Ralph link was still a mistake, but we'll fix it asap.
 Otherwise, there's not really anything that wrong with the text. We do clarify it's a joke and all. =/ But I've asked the guys to go over it to see if we can improve tone anyway.
 I think the main concern of hers is that the phrasing in that section makes it seem like she's one of the devs at fault for doing so and puts her in the same camp as the jurassic park developers in the next segment who were gaming the review system. I'm not sure how I would reword it, but in good faith I feel we should find a better way to phrase it that doesn't imply liana is one of them for making a joke. 
 
-&gt;Whether or not she was serious, Kerzner’s statement exemplifies the lengths that reviewers may go to in order to protect developers from being laid off. Low scores may result in the loss of jobs or the closing of entire studios. **Developers have attempted to mislead consumers as well in order to protect their studios.**
+Whether or not she was serious, Kerzner’s statement exemplifies the lengths that reviewers may go to in order to protect developers from being laid off. Low scores may result in the loss of jobs or the closing of entire studios. Developers have attempted to mislead consumers as well in order to protect their studios.
 I'll try and see what I can do. I'm not sure that's exactly her issue with it though since she seemed more fixated on the accidental Ralph thing when I talked to her. 
 Here's what I got from her
 That was just my interpretation of what she said though. For all I know it's just the ralphretort she had an issue with
@@ -1950,7 +1950,7 @@ Thank you for this excellent piece of work.
 
 And what great timing! Right as Jimbo Wales is asking GG to make their own version of a wiki page. The dossier should prove invaluable to that effort.
 Yep, incredibly great timing. I really hope it helps!
-Can we *please* have a [thunderclap] for this? :D
+Can we please have a thunderclap for this? :D
 We had a pretty big response from the community already that we had our own mini-thunderclap. But we may organise it later anyway.
 Do you plan on updating it frequently, as more dirt is uncovered and more events happen? In other words, will there be live updates or a version 2.0?
 
@@ -2038,7 +2038,7 @@ But how the fuck does that justify advocating the horrific deaths of so many peo
 
 How on earth do I even TRY to understand his mindset?
 
-[Here's a bit] I wrote on one comment of his.
+Here's a bit I wrote on one comment of his.
 
 I would say "I need more booze for this shit", but I have a 20L keg of port that's still over half full.
 Yeah Science! A Data Study on Harassment and #GamerGate
@@ -2052,9 +2052,9 @@ Concerns about the concept? The pricetag? The execution?
 
 I'd like to see more info on how the money is planned to be spent, personally, but I also chuckle at some of the "You only need 100 bucks and Weebly to make a website!" comments.
 
-Guys, I think Bharaj is serious about wanting this to be a *major* site. That means truly professional and diverse design. A staff. Servers meant to handle a heavy load.
+Guys, I think Bharaj is serious about wanting this to be a major site. That means truly professional and diverse design. A staff. Servers meant to handle a heavy load.
 
-More than anything, I think **constructive** projects like this show how serious we are as a group wanting alternatives to the current trend in game reviews/news/consumption of information.
+More than anything, I think constructive projects like this show how serious we are as a group wanting alternatives to the current trend in game reviews/news/consumption of information.
 I think 50,000 dollars isn't an unreasonable price tag considering the number of people it sounds like she's planning to hire to get it started. We should probably ask where the prices came from though, like if she has a consultant working on it or what.
 Yeah, it absolutely needs more transparency, but there's no way I'm dissing it yet.
 I'm all for it, I think the concept is good, but I would need info on what assets would be needed and at least an outline of a business plan before I throw my money in. She's looking for investors into a project, and no matter how much I may like the concept, or what group she is a part of, I'm going to hold her to the same standard that I would hold anyone else to. Show me the plan.
@@ -2084,7 +2084,7 @@ MAYBE HE DRANK TOO MUCH COFFEE? I KNOW I DID!
 How does one yell with text?
 LIKE SO! 
 AAAAAAAAAAAH! MY EARS! MAKE IT STOP! SUCH LOUD TEXT!
-***SUFFER***
+SUFFER
 @RogueStarGamez
 
 @AnAnonIsFineToo
@@ -2115,7 +2115,7 @@ It is because of this that I immediately thought of GG when a Critical Thinking 
 
 While it wouldn't take me long to find a couple of generalizations and Strawmen littered around recent articles, I would like to know: which particular incidents did you think were the most pungent and obvious?
 
-Edit: [related thread].
+Edit: related thread.
 Chrome Extension - archive.today on right click
 I made a chrome extension that lets you either archive a link or access its archived link. For instance someone posts a link to kotaku's new article about how we are all pedophiles or something and you wanna see it, Just right click and click "ArchiveToday Link" That's it.
 
@@ -2124,7 +2124,7 @@ I currently don't have enough spendable money in the bank to pay for dev stuff o
 Install instructions.
 
 1. go to chromes extension manager and turn on developer mode.
-2. download the source [here] all you need is the contents of the src directory.
+2. download the source here all you need is the contents of the src directory.
 3. put the folder with the two(2) source files into someplace safe, as if you delete them the addon wont work anymore.
 4. from the extensions page click "Load unpacked extension"
 5. and then just select the folder you saved the files in from the window that open and your good.
@@ -2137,13 +2137,13 @@ So about 2 weeks.
 If you have any suggestions, issues, or ideas to extend let me know and ill see what I can do.
 Geordie Tait: "I'm the one who made the death threats - toward #GamerGate"
 
-&gt;It's because antis have no need to deflect.
+It's because antis have no need to deflect.
 
 What in God's fuck does this man's brain look like
 That boy ain't right.
 "If you weren't my son I'd hug you."
 I don't know you! That's my purse!
-"Whose kids are these?" - Matthew Mcconaughy, *Lincoln advertizement*
+"Whose kids are these?" - Matthew Mcconaughy, Lincoln advertizement
 Take a child and raise it in an environment in which nothing is ever the childs fault. It shits on the rug? Must've been a bad snack. It yanks the cats tail and gets a kitty-kat-claw-slap out of it? Cat is bad, not child. 
 
 Continue that trend through to adulthood. Boom, SJW ranting fuckwit.
@@ -2155,13 +2155,13 @@ At the moment, most states have their own tests that match up with their standar
 Currently, there is a push to encapsulate as many states as possible into one test. It has I think 13 states. 
 
 So yeah, there certainly could be. It totally depends on the states though.
-I think you missed the point of my question. Yes, some asshole in Washington DC *can* craft a set of standards and *force* everyone to use them. But is this a good idea? How can it possibly be? How can he possibly assess the needs of all of these children?
+I think you missed the point of my question. Yes, some asshole in Washington DC can craft a set of standards and force everyone to use them. But is this a good idea? How can it possibly be? How can he possibly assess the needs of all of these children?
 Honestly, after being on the back end of it, I think it is good. But people will not like it either way.
 
 I am working on a project now that went to performance based. There are the same amount of people bitching, if not more, about the style of test there.
 
 
-&gt; People will not like it either way.
+ People will not like it either way.
 
 Well yes, that's the point. There are 330 million people. Maybe the standards should be tailored to the individuals instead of expecting a national set of standards to apply to everyone?
 Setting up certain standards that people need to meet, I think, is a good idea. The implementation is what matters. Considering standards can bend different depending on the states helps.
@@ -2195,7 +2195,7 @@ Btw, check this out:
 
 3rd comment from Samuel Stingman (archive.today cannot see it), same guy who tweeted Milo's ban says:
 
-&gt; "Contact me at ...at gmail.com if you have information on private communications between prominent members of Gamergate. **Gawker Media will compensate you.**"
+ "Contact me at ...at gmail.com if you have information on private communications between prominent members of Gamergate. Gawker Media will compensate you."
 
 Here you'll find more WAM mentions of YTers jordanowen42, MykeruMedia
 
@@ -2205,7 +2205,7 @@ Apparently he "was" a moderator in
 /r/starwars
 
 Here he says:
-&gt; Hi. I work for LucasArts Entertainment Company, LLC. This video contains copyrighted sound effects composed for the Star Wars franchise. This is the intellectual property of LucasArts and LucasFilm. Please remove this video before I have LucasArts and LucasFilm file a DMCA against your account. DMCA strikes are quite serious, so we prefer to give users a chance to take the video down before we file the DMCA with Google Support. If you want to keep this video of your bird on YouTube, contact us through www.lucasfilm.com or www.lucasarts.com and ask for permission to upload this again. If you do get approval, be sure to credit LucasArts, LucasFilm, and Ben Burtt, the original sound engineer, for this sound effect. Thanks.
+ Hi. I work for LucasArts Entertainment Company, LLC. This video contains copyrighted sound effects composed for the Star Wars franchise. This is the intellectual property of LucasArts and LucasFilm. Please remove this video before I have LucasArts and LucasFilm file a DMCA against your account. DMCA strikes are quite serious, so we prefer to give users a chance to take the video down before we file the DMCA with Google Support. If you want to keep this video of your bird on YouTube, contact us through www.lucasfilm.com or www.lucasarts.com and ask for permission to upload this again. If you do get approval, be sure to credit LucasArts, LucasFilm, and Ben Burtt, the original sound engineer, for this sound effect. Thanks.
 KoP Streaming with Geordie Tait Now.
 Fairly civil at the moment, Socks just left, Sargon came on.
 
@@ -2229,7 +2229,7 @@ IF not, what are we doing about it?
 Who to contact at Intel?
 Who should we contact at Intel? We need to at least tell them that they are wading back into a culture war, perhaps unwittingly. Also, that if you're working on a new build that you're considering AMD.
 Involved Wikipedia editor Tarc complicit in off-wiki cooperation with subjects of Gamergate controversy.
-One of the main PoV pushing editors, [Tarc], isn't as neutral or objective as he claims to be.
+One of the main PoV pushing editors, Tarc, isn't as neutral or objective as he claims to be.
 
 I like how he brushes off editors who disagree with the neutrality of the article by blanket labeling them as coordinated agents who collude outside Wikipedia.
 
@@ -2240,10 +2240,10 @@ Feeling sympathy for those who have been negatively affect by the controversy is
 
 Archive:
 
-*
-*
-*
-Are any GG wiki editors reading this? The faux GG article needs some serious work. If we don't make it 100% neutral, Jimbo is going to dismiss the entire thing and it will all be for nothing. **Remember that the more you force our perspective, the more invalid it will become.** The ideal article will NOT tell our full side of the story simply because we don't have enough legitimate sources for them all, this is a fact. There are going to be a lot of aspects that will inevitably slip through the cracks and won't appear in the final product. But this is ok, because eventually the story will get out in the mainstream and we'll have our sources then.
+
+
+
+Are any GG wiki editors reading this? The faux GG article needs some serious work. If we don't make it 100% neutral, Jimbo is going to dismiss the entire thing and it will all be for nothing. Remember that the more you force our perspective, the more invalid it will become. The ideal article will NOT tell our full side of the story simply because we don't have enough legitimate sources for them all, this is a fact. There are going to be a lot of aspects that will inevitably slip through the cracks and won't appear in the final product. But this is ok, because eventually the story will get out in the mainstream and we'll have our sources then.
 
 Here is a link for reference
 
@@ -2266,7 +2266,7 @@ They had to make a huge post explaining why the language on MTG cards is not gen
 Fuck this shit.
 Seriously? Got a link? That's crazy if they had to do that...
 oh man i hate to be the "hurr durr i dont want to enact the labour" guy but i honestly have no idea where it is. It was on one blog of a guy from wizards.
-Check a few links down; this guy and Ryulong have never made their bias anything *other* than clear.
+Check a few links down; this guy and Ryulong have never made their bias anything other than clear.
 "I'm totally gonna take your side and remain neutral"
 
 Stay strong SJW soldier keeping the "bullshit" out.
@@ -2292,7 +2292,7 @@ Let me guess, pro GG wikipedians aren't involved with GG at all offsite?
 
 GG does this all the time. You guys even organise and lobby for the GG article to be changed. /r/kotakuinaction would cry bloody murder if wikipedia decided to ban people involved in GG from editing anything related to GG.
 You mean like ryulong has tried no less then 3 times?  Or the fact that Ryulong and North have over 40% of the edits on the article desperately pushing a narrative.  Just curious, most of us have given up on wikipedia as hopelessly biased.
-&gt;Let me guess, pro GG wikipedians aren't involved with GG at all offsite?
+Let me guess, pro GG wikipedians aren't involved with GG at all offsite?
 
 You can't conflate that with being in sympathetic contact with some of the principals of a controversial article that you're supposed to be writing in an impartial encyclopedic voice.
 Geordie Tait: Narcissist and Hypocrite
@@ -2323,7 +2323,7 @@ The board gaming guys or a lot of them are right on our side and helping us out 
 I have nothing but thanks for those guys.
 
 Take a look at shut up and sit down. My favorite board game site is firmly anti gg. SJWs are everywhere. Hopefully after the gg victory parade we can do something about other areas under siege.  
-Yeah, *Shut Up and Sit Down*, home of Matt "Weaponized Minorities" Lees and with occasional podcast guest Leigh "Megaphone" Alexander.
+Yeah, Shut Up and Sit Down, home of Matt "Weaponized Minorities" Lees and with occasional podcast guest Leigh "Megaphone" Alexander.
 Yeah, I play board games with a group of friends every Thursday night.  I'm not sure how I feel about Table Top.  While I personally plan on boycotting it, it also has done wonders for getting younger people into physical board games.  I'm probably still going to recommend people watch it for that reason, even though I strongly disagree with Wheaton's views.  
   
 Edit: I should add that when I say it's done wonders, I mean some of those friends I play with started playing board games again because of the show.
@@ -2474,9 +2474,9 @@ Throughout the week ending on May 18th, 2013, Pinsof and Destructoid owner Yanie
 
 Some suggested that “Niero” seek legal advice, others called for Allistair to be fired. Chris Dahlen, former editor-in-chief at Kill Screen and best known for stating that everyone draws their own ethical lines, stated…
 
-“[Quoting "Niero"] Allistair decides to post the facts on Twitter against our wishes despite not asking him to do so, and also publicly outs [Redacted]. It was an unconfirmed rumor prior to that.” [end quote]
+“Quoting "Niero" Allistair decides to post the facts on Twitter against our wishes despite not asking him to do so, and also publicly outs Redacted. It was an unconfirmed rumor prior to that.” end quote
 
-“And by the way, I haven’t followed the story closely and I didn’t see the tweets. I think you should fire him because just based on the way you wrote the e-mail, you seem to think that’s the right [decision]”
+“And by the way, I haven’t followed the story closely and I didn’t see the tweets. I think you should fire him because just based on the way you wrote the e-mail, you seem to think that’s the right decision”
 
 Jonathan Deesing, former G4 contributor and freelance games writer, stated the following in the GJP thread…
 
@@ -2484,7 +2484,7 @@ Jonathan Deesing, former G4 contributor and freelance games writer, stated the f
 
 Danielle Riendeau, senior reviewer at Polygon, also came forward to note that Pinsof deserved to be fired, stating…
 
-“I’ve been following the situation with interest, and I feel for you, Niero. I think legal counsel is a very good idea, and I also think you probably * should* fire the writer in question,”
+“I’ve been following the situation with interest, and I feel for you, Niero. I think legal counsel is a very good idea, and I also think you probably  should fire the writer in question,”
 
 Interestingly enough, only one person actually asked whether or not the alleged “victim” in question should actually be questioned first before anyone made any rash decisions to fire a writer for exposing an issue that consumers should be made aware of. However, following through with fact-checking was immediately shot down.
 
@@ -2775,7 +2775,7 @@ Finally, in response to concerns about the accuracy of the study itself, the com
 
 Avoidance of conflict of interest is at the heart of all calls for ethics in games journalism. It is troubling to read through this section in the context of what led to this audit and #GamerGate in general. The first paragraph of the conflict section references financial ties, prior employment and close relationships as conditions for recusing oneself — unless otherwise stated on an authors ‘profile’ page. While this sounds reasonable, it should be more strict. An authors profile page should not be sufficient as a universal disclosure mechanism. Instead disclosures should be repeated in each article if relevant. In addition, this section is potentially conflicting with the Kickstarter non-disclosure treatment laid out in the conduct section above (it is also questionable, why the Kickstarter segment would not be part of this section).
 
-But most importantly, this section is in direct conflict to what the second paragraph of this section states: “Polygon staff are permitted to contribute to Patreon campaigns for members of the video game industry […]”. This is unacceptable. Reuters puts it best by stating “Never pay for a story and never accept a bribe”. And while paying for a story may not be at the heart of an authors intention by contributing to a Patreon campaign, it is perception that would become reality in this instance. Also, this reflects an ‘avoidable’ conflict of interest per the SPJ guidelines — an author can just not cover a subject they financially support or stop supporting the subject and disclose the prior relationship.
+But most importantly, this section is in direct conflict to what the second paragraph of this section states: “Polygon staff are permitted to contribute to Patreon campaigns for members of the video game industry …”. This is unacceptable. Reuters puts it best by stating “Never pay for a story and never accept a bribe”. And while paying for a story may not be at the heart of an authors intention by contributing to a Patreon campaign, it is perception that would become reality in this instance. Also, this reflects an ‘avoidable’ conflict of interest per the SPJ guidelines — an author can just not cover a subject they financially support or stop supporting the subject and disclose the prior relationship.
 
 There is a difference in the stance on Kickstarter and Patreon as the reader may have noticed. The distinction follows the logic of buying a product vs. donating to a creator. While the intention of supporting a Kickstarter is directly linked to a separable deliverable of a customer (e.g. a copy of the game) a supporter on Patreon is merely a benefactor for no visible and separable exchange. As a result, the Patreon supporter undermines the own as well as the sources’ independence in the journalistic process.
 
@@ -2799,9 +2799,9 @@ By contacting devs, we can invite them to the table to talk openly about the sta
 Contact the Entertainment Software Association (ESA) and the Entertainment Merchants Association (EMA). They are both trade organizations who lobby to politicians and have fought in court on behalf of video games. They will be instrumental in allowing the industry to come forward on the subject of how games are reported.
 This will not only help those who believe in the principles of Gamer Gate, but also help improve the games media market as a whole. With better connections with the games industry, we will be able to create a more free and open market.
 Remember the following in writing your letters:
-*Relate to them what gaming means to you. Your experiences matter.
-*It is important to show solidarity in your letters. Many developers feel burdened by their consumers - no thanks to the media. Establish you appreciate their work and are open to conversation.
-*Show them how journalism of games has impacted your gaming experience.
+Relate to them what gaming means to you. Your experiences matter.
+It is important to show solidarity in your letters. Many developers feel burdened by their consumers - no thanks to the media. Establish you appreciate their work and are open to conversation.
+Show them how journalism of games has impacted your gaming experience.
 Your letters should be written with a polite and personal tone. Physical mail has more impact than a hundred emails, and hand-written letters show more dedication. Make sure you send a copy to the ESA and another to the EMA. You should also contact individual games publishers, because the ESA and EMA represent those companies.
 Be proud of your letters. Once you have them ready to be sent, take a picture of your letters and tweet the photo to @RebuildInitiati. This will not only show your effort publicly, but also inspire others to write as well and spread the campaign. Promote the Rebuild Initiative by using the hashtag #RebuildInitiative.
 
